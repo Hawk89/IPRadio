@@ -8,11 +8,12 @@ on:
 jobs:
   sync-and-modify:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout Fork
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      #- name: Checkout Fork
+       # uses: actions/checkout@v4
+       # with:
+        #  token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sync with Upstream
         run: |
