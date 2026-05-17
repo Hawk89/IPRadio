@@ -70,10 +70,12 @@ jobs:
           # Commit the change (if there was a modification)
           git commit -m "Modify ipradioita_new.m3u" || echo "No changes to commit"
           
-          # Now fetch and rebase
+          # See what Git considers "unstaged"
+          git status
+          
           git fetch origin main
           git rebase origin/main
-          
           git push --force-with-lease
+        
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
