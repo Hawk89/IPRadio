@@ -28,7 +28,7 @@ jobs:
       - name: Update M3U URLs
         run: |
           # Remove carriage returns (CRLF -> LF)
-          sed -i 's/\r$//' ipradioita.m3u
+          sed -i 's/\r$//' prova.m3u
            
           while IFS= read -r line; do
             if [[ $line =~ ^http ]]; then
@@ -37,16 +37,16 @@ jobs:
             else
               echo "$line"
             fi
-          done < ipradioita.m3u > temp.m3u
+          done < prova.m3u > temp.m3u
       
           sed -i '/^http/d; s/^url:http/http/g' temp.m3u
-          mv temp.m3u ipradioita2.m3u
+          mv temp.m3u prova2.m3u
         shell: bash
 
-      - name: Modify ipradioita.m3u
+      - name: Modify prova2.m3u
         run: |
-          if [ -f "ipradioita.m3u" ]; then
-            sed -i -E 's/(#EXTINF:[^,]*,)/\1 group-title="Radio" radio="true",/' ipradioita.m3u
+          if [ -f "prova2.m3u" ]; then
+            sed -i -E 's/(#EXTINF:[^,]*,)/\1 group-title="Radio" radio="true",/' prova2.m3u
           fi
 
       - name: Commit Changes
@@ -55,9 +55,9 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Stage the modified file
-          git add ipradioita.m3u
+          git add prova2.m3u
           # Commit the change (if there was a modification)
-          git commit -m "Modify ipradioita.m3u" || echo "No changes to commit"
+          git commit -m "Modify prova2.m3u" || echo "No changes to commit"
           
           # Now fetch and rebase
           git fetch origin main
