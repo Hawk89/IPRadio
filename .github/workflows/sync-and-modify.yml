@@ -10,17 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Fork
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sync with Upstream
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
-        with:
-          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_sync_repo: upstream-owner/upstream-repo # Change this
-          upstream_sync_branch: main
-          target_sync_branch: main
+        run: |
+          gh repo sync ${{ github.repository }} --branch main --force
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Modify ipraioita.m3u
         run: |
