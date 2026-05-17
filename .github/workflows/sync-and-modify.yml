@@ -28,7 +28,7 @@ jobs:
       - name: Modify ipradioita.m3u
         run: |
           if [ -f "ipradioita.m3u" ]; then
-            sed -i -E 's/(#EXTINF:[^,]*,)/\1 radio="true",/' ipraioita.m3u
+            sed -i -E 's/(#EXTINF:[^,]*,)/\1 radio="true",/' ipradioita.m3u
           fi
 
       - name: Commit Changes
@@ -36,5 +36,5 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add ipradioita.m3u
-          git commit -m "Modify ipraioita.m3u" || echo "No changes to commit"
+          git commit -m "Modify ipradioita.m3u" || echo "No changes to commit"
           git push
