@@ -39,7 +39,7 @@ jobs:
             fi
           done < prova.m3u > temp.m3u
       
-          sed -i '/^http/d; s/^url:http/http/g' temp.m3u
+          #sed -i '/^http/d; s/^url:http/http/g' temp.m3u
           mv temp.m3u prova2.m3u
         shell: bash
 
