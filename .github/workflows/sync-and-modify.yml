@@ -38,6 +38,7 @@ jobs:
           rm -rf upstream-repo
           # Stage the updated files
           git add ipradioita.m3u iptvitaplus.m3u iptvita.m3u
+          git push
 
       - name: Update M3U URLs
         run: |
@@ -78,7 +79,7 @@ jobs:
           git add ipradioita_new.m3u
           # Commit the change (if there was a modification)
           git commit -m "Modify ipradioita_new.m3u" || echo "No changes to commit"
-          git push
+          
           # See what Git considers "unstaged"
           git status
           
