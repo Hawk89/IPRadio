@@ -28,7 +28,7 @@ jobs:
       - name: Modify ipradioita.m3u
         run: |
           if [ -f "ipradioita.m3u" ]; then
-            sed -i -E 's/(#EXTINF:[^,]*,)/\1 radio="true",/' ipradioita.m3u
+            sed -i -E 's/(#EXTINF:[^,]*,)/\1 group-title="Radio" radio="true",/' ipradioita.m3u
           fi
 
       - name: Commit Changes
