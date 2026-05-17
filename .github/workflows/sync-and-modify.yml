@@ -37,14 +37,14 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Stage the modified file
-          git add ipraioita.m3u
+          git add ipradioita.m3u
           
           # Now fetch and rebase
           git fetch origin main
           git rebase origin/main
           
           # Commit the change (if there was a modification)
-          git commit -m "Modify ipraioita.m3u" || echo "No changes to commit"
+          git commit -m "Modify ipradioita.m3u" || echo "No changes to commit"
           git push --force-with-lease
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
