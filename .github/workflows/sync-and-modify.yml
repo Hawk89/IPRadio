@@ -32,13 +32,12 @@ jobs:
            
           while IFS= read -r line; do
             if [[ $line =~ ^http ]]; then
-              #final_url=$(curl -L -s -o /dev/null -w %{url_effective} "$line")
-              final_url=$(curl -L -s -A "Mozilla/5.0" -o /dev/null -w %{url_effective} "$line")Copied!   
-              echo "url:$final_url"
+              final_url=$(curl -L -s -o /dev/null -w %{url_effective} --http1.1 -A "Mozilla/5.0" "$line")
+              echo "$final_url"
             else
               echo "$line"
             fi
-          done < prova.m3u > temp.m3u
+          done < prova.m3u > ipradioita_new.m3u
       
           #sed -i '/^http/d; s/^url:http/http/g' temp.m3u
           mv temp.m3u prova2.m3u
