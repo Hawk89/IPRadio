@@ -29,11 +29,13 @@ jobs:
             ipradioita.m3u
             iptvitaplus.m3u
             iptvita.m3u
+            
       - name: Copy upstream files to root
         run: |
           cp upstream-repo/ipradioita.m3u .
           cp upstream-repo/iptvitaplus.m3u .
           cp upstream-repo/iptvita.m3u .
+          rm -rf upstream-repo
 
       - name: Update M3U URLs
         run: |
