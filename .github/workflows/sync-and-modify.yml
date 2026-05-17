@@ -82,22 +82,16 @@ jobs:
             sed -i -E 's/(#EXTINF:[^,]*,)/\1 group-title="Radio" radio="true",/' ipradioita_new.m3u
           fi
 
-      - name: Commit Changes
+      - name: Commit and push the new file
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Stage the modified file
           git add ipradioita_new.m3u
-          # Commit the change (if there was a modification)
-          git commit -m "Modify ipradioita_new.m3u" || echo "No changes to commit"
-          
-          # See what Git considers "unstaged"
-          git status
-          
-          git fetch origin main
-          git rebase origin/main
-          git push --force-with-lease
-        
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Se ci sono modifiche da committare
+          if ! git diff --cached --quiet; then
+            git commit -m "Add ipradioita_new.m3u with resolved URLs and group-title"
+            git push
+          else
+            echo "No new changes to commit"
+          fi
