@@ -8,7 +8,9 @@ on:
 jobs:
   sync-and-modify:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+      
     steps:
       #- name: Checkout Fork
        # uses: actions/checkout@v4
