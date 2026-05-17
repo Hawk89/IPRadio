@@ -38,6 +38,7 @@ jobs:
           rm -rf upstream-repo
           # Stage the updated files
           git add ipradioita.m3u iptvitaplus.m3u iptvita.m3u
+          
       - name: Commit Changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -79,7 +80,7 @@ jobs:
       - name: Modify ipradioita_new.m3u
         run: |
           if [ -f "ipradioita_new.m3u" ]; then
-            sed -i -E 's/(#EXTINF:[^,]*,)/\1 group-title="Radio" radio="true",/' ipradioita_new.m3u
+            sed -i -E 's/(#EXTINF:[^,]*,)/\1group-title="radio" radio="true",/' ipradioita_new.m3u
           fi
 
       - name: Commit and push the new file
