@@ -19,11 +19,16 @@ jobs:
         env:
            FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-      - name: Sync with Upstream
-        run: |
-          gh repo sync ${{ github.repository }} --branch main --force
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout specific file from Upstream
+        uses: actions/checkout@v4
+        with:
+          repository: 'Tundrak/IPTV-Italia' 
+          ref: 'main'
+          path: 'upstream-repo'
+          sparse-checkout: |
+            ipradioita.m3u
+            iptvitaplus.m3u
+            iptvita.m3u
 
       - name: Update M3U URLs
         run: |
