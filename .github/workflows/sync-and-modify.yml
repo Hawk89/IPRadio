@@ -12,10 +12,12 @@ jobs:
       contents: write
       
     steps:
-      #- name: Checkout Fork
-       # uses: actions/checkout@v4
-       # with:
-        #  token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout Fork
+        uses: actions/checkout@v4
+        with:
+           token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Sync with Upstream
         run: |
