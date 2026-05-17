@@ -14,6 +14,8 @@ Apri [**questo link**](https://github.com/Tundrak/IPTV-Italia/releases) e scaric
 | **iptvitaplus.m3u** | https://github.com/Hawk89/IPTV-Italia/raw/main/iptvitaplus.m3u  |
 | **ipradioita.m3u**  |  https://github.com/Hawk89/IPTV-Italia/raw/main/ipradioita.m3u  |
 | **ipradioita_new.m3u**  |  https://github.com/Hawk89/IPTV-Italia/raw/main/ipradioita_new.m3u  |
+| **RADIO LINK EASY**  |  https://bit.ly/4eSMP0V  |
+| **TV LINK EASY**  |  https://bit.ly/43dKWEZ  |
 
 # Cosa contiene
 Al momento i due file contengono i seguenti canali TV e radio:
