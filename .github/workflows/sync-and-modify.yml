@@ -1,0 +1,37 @@
+name: Sync and Modify
+
+on:
+  schedule:
+    - cron: '0 * * * *' 
+  workflow_dispatch:
+
+jobs:
+  sync-and-modify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Fork
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sync with Upstream
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
+        with:
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          upstream_sync_repo: upstream-owner/upstream-repo # Change this
+          upstream_sync_branch: main
+          target_sync_branch: main
+
+      - name: Modify ipraioita.m3u
+        run: |
+          if [ -f "ipraioita.m3u" ]; then
+            sed -i -E 's/(#EXTINF:[^,]*,)/\1 radio="true",/' ipraioita.m3u
+          fi
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ipraioita.m3u
+          git commit -m "Modify ipraioita.m3u" || echo "No changes to commit"
+          git push
