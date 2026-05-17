@@ -1,0 +1,64 @@
+name: Update M3U Radio Links
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily
+  workflow_dispatch:
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Puppeteer
+        run: |
+          npm install puppeteer
+
+      - name: Update M3U URLs
+        run: |
+          node <<EOF
+          const puppeteer = require('puppeteer');
+          const fs = require('fs');
+
+          (async () => {
+            const browser = await puppeteer.launch({
+              args: ['--no-sandbox', '--disable-setuid-sandbox']
+            });
+            const page = await browser.newPage();
+
+            let lines = fs.readFileSync('ipradioita.m3u', 'utf8').split('\\n');
+            let output = [];
+
+            for (let line of lines) {
+              if (line.trim().startsWith('http')) {
+                try {
+                  await page.goto(line.trim(), { waitUntil: 'networkidle0', timeout: 10000 });
+                  let finalUrl = page.url();
+                  output.push(finalUrl);
+                } catch (err) {
+                  console.error('Failed to load:', line, err.message);
+                  output.push(line); // Keep original on failure
+                }
+              } else {
+                output.push(line);
+              }
+            }
+
+            await browser.close();
+            fs.writeFileSync('ipradioita_new.m3u', output.join('\\n'));
+          })();
+          EOF
+
+      - name: Commit and push
+        uses: actions/git-add-and-commit@v4
+        with:
+          add: 'ipradioita.m3u'
+          message: 'Update M3U radio links'
+          push: true
