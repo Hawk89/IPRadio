@@ -34,7 +34,7 @@ jobs:
             else
               echo "$line"
             fi
-          done < playlist.m3u > temp.m3u
+          done < ipradioita.m3u > temp.m3u
       
           sed -i '/^http/d; s/^url:http/http/g' temp.m3u
           #mv temp.m3u playlist.m3u
