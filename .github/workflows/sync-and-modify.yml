@@ -65,22 +65,22 @@ jobs:
             else
               echo "$line"
             fi
-          done < <(sed 's/\r$//' ipradioita.m3u) > ipradioita_new.m3u
+          done < <(sed 's/\r$//' ipradioita.m3u) > rit.m3u
           
           # Confirm file creation
-          if [ -f ipradioita_new.m3u ]; then
+          if [ -f rit.m3u ]; then
             echo "File created successfully"
-            ls -la ipradioita_new.m3u
+            ls -la rit.m3u
           else
             echo "File creation failed"
             exit 1
           fi
         shell: bash
 
-      - name: Modify ipradioita_new.m3u
+      - name: Modify rit.m3u
         run: |
-          if [ -f "ipradioita_new.m3u" ]; then
-            sed -i -E 's/(#EXTINF:[^,]*,)/\1group-title="radio" radio="true",/' ipradioita_new.m3u
+          if [ -f "rit.m3u" ]; then
+            sed -i -E 's/(#EXTINF:[^,]*,)/\1group-title="radio" radio="true",/' rit.m3u
           fi
 
       - name: Commit and push the new file
@@ -89,9 +89,9 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Stage the modified file
-          git add ipradioita_new.m3u
+          git add rit.m3u
           # Commit the change (if there was a modification)
-          git commit -m "Modify ipradioita_new.m3u" || echo "No changes to commit"
+          git commit -m "Modify rit.m3u" || echo "No changes to commit"
           
           # See what Git considers "unstaged"
           git status
