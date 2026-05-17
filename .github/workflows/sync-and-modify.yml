@@ -37,7 +37,8 @@ jobs:
           done < ipradioita.m3u > temp.m3u
       
           sed -i '/^http/d; s/^url:http/http/g' temp.m3u
-          #mv temp.m3u playlist.m3u
+          mv temp.m3u ipradioita2.m3u
+        shell: bash
 
       - name: Modify ipradioita.m3u
         run: |
