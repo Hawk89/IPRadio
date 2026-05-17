@@ -25,9 +25,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Modify ipraioita.m3u
+      - name: Modify ipradioita.m3u
         run: |
-          if [ -f "ipraioita.m3u" ]; then
+          if [ -f "ipradioita.m3u" ]; then
             sed -i -E 's/(#EXTINF:[^,]*,)/\1 radio="true",/' ipraioita.m3u
           fi
 
@@ -35,6 +35,6 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add ipraioita.m3u
+          git add ipradioita.m3u
           git commit -m "Modify ipraioita.m3u" || echo "No changes to commit"
           git push
