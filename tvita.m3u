@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.davidefulgione.it/davide.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506078_ba1324da.jpg" group-title="Rai",[1] Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
