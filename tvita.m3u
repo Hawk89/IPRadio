@@ -1,7 +1,277 @@
-<html>
-<head><title>415 Unsupported Media Type</title></head>
-<body>
-<center><h1>415 Unsupported Media Type</h1></center>
-<hr><center>openresty/1.29.2.3</center>
-</body>
-</html>
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506078_ba1324da.jpg" group-title="Rai",[1] Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506187_a9d5bfb2.jpg" group-title="Rai",[2] Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506263_43646c31.png" group-title="Rai",[3] Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506321_fcbb22de.png" group-title="Mediaset",[4] Rete 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506499_b86ee88a.png" group-title="Mediaset",[5] Canale 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506575_a1ef6996.png" group-title="Mediaset",[6] Italia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506629_9197b481.jpg" group-title="Altro",[7] La 7
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/stvp-ITBD1500002NL
+#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506720_ca878b1b.jpg" group-title="Altro",[8] Tv 8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508790_cd769972.jpg" group-title="Rai",[10] Rai World Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506770_0cd8df97.jpg" group-title="Mediaset",[20] 20 Mediaset
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506850_cc2e7108.png" group-title="Rai",[21] Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778506960_4022b65d.jpg" group-title="Mediaset",[22] Iris
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507011_0486c0c9.jpg" group-title="Rai",[23] Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507202_6c384590.jpg" group-title="Rai",[24] Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507101_72ca61de.jpg" group-title="Rai",[25] Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507178_896f22ff.jpg" group-title="Altro",[26] Cielo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507282_23aa9d31.jpg" group-title="Mediaset",[27] Twenty Seven
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="La5.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507331_da55beff.jpg" group-title="Mediaset",[28] La 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507385_48cbe89a.jpg" group-title="Mediaset",[29] Cine 34
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507524_590d842a.png" group-title="Mediaset",[30] Focus
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507559_cc9f0475.jpg" group-title="Mediaset",[31] Top Crime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507656_586fbf55.png" group-title="Mediaset",[32] Boing
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507703_e5456896.jpg" group-title="Rai",[33] Rai YOYO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Italia2.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507750_1374148a.png" group-title="Mediaset",[34] Italia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507794_563f46c4.png" group-title="Sky",[35] Sky TG 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507834_031fbdce.jpg",[36] TG COM 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507881_73bd0f83.png",[37] Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507947_6d6735f7.jpg" group-title="Mediaset",[38] Mediaset Extra
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778507986_e1ceea6b.png" group-title="Rai",[39] Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508049_23c50908.png",[40] Rai Sport
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508203_4ff1e881.png",[41] Sport Italia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508258_4a759f51.jpg" group-title="Altro",[42] Red Bull
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508322_bc2e7b53.jpg" group-title="Altro",[43] Rtl 102.5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508362_a1df91ff.png" group-title="Altro",[44] Super Tennis
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508415_1e9cb10d.jpg",[45] Boom Channel
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508457_a4e87f95.png" group-title="Altro",[46] Radio Italia Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508516_785ab6d1.png" group-title="Altro",[47] Radio Freccia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508542_2e9cecd4.png" group-title="Altro",[48] RDS TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508574_0223e2ae.jpg",[49] Radio Capital
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508601_ff1fe577.jpg" group-title="Altro",[50] Inter Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508630_372036b9.jpg",[51] Inter 24/h
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508676_f4174ddd.jpg",[52] Solo Calcio
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778508705_2c34f453.png" group-title="Altro",[53] RTL BEST
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778509067_2abbd4ee.png",[55] Kiss Kiss
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1778509520_ee414234.jpg" group-title="Altro",[56] Tennis +
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779250816_0917032d.png" group-title="Altro",[57] Kiss Kiss Napoli
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779250889_78022354.png" group-title="Altro",[58] Rete Stereo 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779250960_6e95a0dc.jpg" group-title="Altro",[59] Prima TV Napoli
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251043_106be3c1.jpg",[60] Lira Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnr7-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251112_091404a5.png" group-title="Altro",[61] Quarto Canale Flegreo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251180_b630c825.png" group-title="Altro",[62] Radio Ibiza
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251256_1ae51a6b.jpg" group-title="Altro",[63] TV RNM4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rtmp.streams.ovh:1936/radionapoliemme/radionapoliemme/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251322_eb4400e4.jpg" group-title="Altro",[64] CRC 84
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251369_f624cb81.png" group-title="Altro",[65] PSN TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/persemprenews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251423_0d47f044.png" group-title="Altro",[66] TeleRadio Ercolano
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251492_6e6a5f64.png" group-title="Altro",[67] GS Channel
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251542_282d0707.jpg" group-title="Altro",[68] Rtn Napoli
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/saiuz-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251590_0013ab2d.jpg" group-title="Altro",[69] Tele Futura
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251653_9c3eed53.png" group-title="Altro",[70] Lacco Ameno
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/laccoamenotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251694_9f7e77a0.jpg" group-title="Altro",[71] Extra TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251760_791e02e8.jpg" group-title="Altro",[72] Campania TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251805_0458a988.png" group-title="Altro",[73] Yara TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251897_dfdfc29b.jpg" group-title="Altro",[74] Nora TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779251964_2401d9e9.jpg" group-title="Altro",[75] teatro TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://teatrotv.iostream.it/teatrotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252134_74f87952.jpg" group-title="Altro",[76] Stereo 5 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252181_d32f0bc0.jpg" group-title="Altro",[77] Otto Channel
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252237_f0d11856.png" group-title="Altro",[78] Stile TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252296_af1fc1a1.png" group-title="Altro",[79] Set TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252341_c9aa5867.jpg" group-title="Altro",[80] Onda TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252405_645e73da.png" group-title="Altro",[81] Telenova
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252448_797ecb51.png",[82] Euro Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252486_04d734af.png" group-title="Altro",[83] Tele Ambiente
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252523_2f35430f.png" group-title="Altro",[84] Minformo TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252558_fa9c1f94.png" group-title="Altro",[85] TeleUniverso
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252597_c140f578.png" group-title="Altro",[86] MediaSud
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252636_17876021.jpg" group-title="Altro",[87] Sport Channel 214
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252668_9f86ef17.png" group-title="Altro",[88] ReteMIa
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252704_982b8a03.png" group-title="Altro",[89] TeleColore
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252739_3fa18526.jpg" group-title="Altro",[90] Info Cilento TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252776_94ff0ae4.png" group-title="Altro",[91] Primaset TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252833_a009ac4e.jpg" group-title="Altro",[92] Canale 81
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252920_961e3bc1.jpg" group-title="Altro",[93] Tutto Napoli TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252952_d6f187e4.png" group-title="Altro",[94] Bella TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779252994_5bf66bca.png" group-title="Altro",[95] Cinemaitaliano
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253030_f879b0cc.png" group-title="Altro",[96] Radio MArte
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream7.xdevel.com/video0s975753-774/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253067_6cb13c63.jpg",[97] Altro Corriere
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnr6-52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253110_23455b21.png" group-title="Altro",[98] Contrasto TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253146_b7988b1d.png" group-title="Altro",[99] Capri Events
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://host2.hbbtv.me:28443/hls/caprievents/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253201_c4b88e5b.jpg" group-title="Altro",[100] Partenope Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253259_73fa24c9.jpg" group-title="Altro",[101] Tele Stabia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream3.aswifi.it/giglitv/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253304_a4c3262e.png" group-title="Altro",[102] Rete Italia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davidefulgione.it/assets/img/iptv/logo_1779253342_1ae9d4aa.png" group-title="Altro",[103] Tva 75
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream10.xdevel.com/video0s978817-3107/stream/playlist.m3u8
