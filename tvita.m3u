@@ -46,6 +46,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506960_4022b65d.jpg" group-title="Mediaset",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/giallo.jpg" group-title="Mediaset",Giallo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
