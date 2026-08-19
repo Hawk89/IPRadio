@@ -1,46 +1,46 @@
 #EXTM3U
 #EXTINF:-1,group-title="radio" radio="true",Rai Radio 1
-https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/playlist.m3u8?auth=daEaxbYcMcBdwaxcYcIcFc5dTaqdDdSdtaq-bQG_On-c0-DkrwzGu&aifp=V001
+https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/playlist.m3u8?auth=daEa8dgdWdfbOd9a1dybhdwcJdSbZcxc4cy-bQHuVg-c0-AmxxzHs&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",Rai Radio 2
-https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/playlist.m3u8?auth=daEa0aWayasapbadNaKdYdrcabgaNcoa6a8-bQG_Oo-c0-CjzuvEv&aifp=V001
+https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/playlist.m3u8?auth=daEbQaFbrbMdSaZbpcndnbdawaFbrbTdrbp-bQHuVh-c0-CjsvyFv&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",Rai Radio 3
-https://streamcdnr6-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiotreest1/hls/playlist_mo.m3u8?auth=daEcJafcwd6aVbvafcidPd8dja4a6dWataF-bQG_Op-c0-FjwwtHv&aifp=V001
+https://streamcdnr4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiotreest1/hls/playlist_mo.m3u8?auth=daEdudQdVdsb6bzdVcxc_bKaRbKchaZbzbw-bQHuVi-c0-AmtxyHv&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",Rai Isoradio
-https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8?auth=daEbEaXciaYbFcTaqdQaHaqa7ard2dVc_aw-bQG_Oq-c0-AjAwzEn&aifp=V001
+https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8?auth=daEdJcBb.bgbndbbndkbybLbVbebjbtcLc5-bQHuVj-c0-FlyvtFt&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Rai Radio 1 Sport
-https://radiounosportest-live.akamaized.net/hls/live/2032591/radiounosportest/radiounosportest/playlist.m3u8?auth=daEdcdtdUbbbNaZc0aHcbbbdxdwaSbrc_dz-bQG_Oq-c0-CmAxxFo&aifp=V001
+https://radiounosportest-live.akamaized.net/hls/live/2032591/radiounosportest/radiounosportest/playlist.m3u8?auth=daEcyaXbHdRaPaCbTdSbDdea_cjbPcsand_-bQHuVk-c0-EjAvuHq&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Rai Radio 3 Classica
-https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEckaLdaaud4cFc7d2aTc9cmb2bdbpbkbw-bQG_Or-c0-AjyxrEn&aifp=V001
+https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEdGdXbwacdKbub9cMcScQbsbhdLbqd1dv-bQHuVl-c0-CmAvtEp&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] No Name Radio
-https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/playlist.m3u8?auth=daEcHdcdobrbccrdIahc7cRdhcHaWaIchd2-bQG_Os-c0-DmtxvFu&aifp=V001
+https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/playlist.m3u8?auth=daEdtawafdVb4cLdPb3cEbpbZacdscAcXbO-bQHuVm-c0-JjtuwHu&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Rai Radio Kids
-https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/playlist.m3u8?auth=daEc0akcVa6bDcDchbgc4bwdnbrbKaWaAds-bQG_Os-c0-CjrwyEv&aifp=V001
+https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/playlist.m3u8?auth=daEaDdhbIc3bBbXbYdNb8b8c1dbc0azbvcp-bQHuVn-c0-JmyvvGs&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Rai Radio Live Napoli
-https://radiolive-live.akamaized.net/hls/live/2032599/radiolive/radiolive/playlist.m3u8?auth=daEcSa.bFbrc3a7bVbFcxdqb9b0cbandAak-bQG_Ot-c0-EjtvsFu&aifp=V001
+https://radiolive-live.akamaized.net/hls/live/2032599/radiolive/radiolive/playlist.m3u8?auth=daEa9bHdrceb6ajbLdMbcdLcCakccdKdtcl-bQHuVo-c0-BkuxyGr&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Rai Radio Techetè
-https://radiotechete-live.akamaized.net/hls/live/2032598/radiotechete/radiotechete/playlist.m3u8?auth=daEakazd5b6dNbLaPd5cIdVata_ddcAa7bo-bQG_Ou-c0-AjwxyFv&aifp=V001
+https://radiotechete-live.akamaized.net/hls/live/2032598/radiotechete/radiotechete/playlist.m3u8?auth=daEdfdddyc2ahdZc4bJd5aPcfdlb4dXbFae-bQHuVp-c0-FmuxvGr&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Rai Radio Tutta Italiana
-https://radiotuttaitaliana-live.akamaized.net/hls/live/2032596/radiotuttaitaliana/radiotuttaitaliana/playlist.m3u8?auth=daEbDckdkbycudZbuaraDcgaDblbHcncEbH-bQG_Ou-c0-JlrxrFr&aifp=V001
+https://radiotuttaitaliana-live.akamaized.net/hls/live/2032596/radiotuttaitaliana/radiotuttaitaliana/playlist.m3u8?auth=daEdKddaDbTb3aXbCbqbYa2dccCbXa5aDc5-bQHuVq-c0-GmuuAFs&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Rai GRParlamento
-https://radioparlamento-live.akamaized.net/hls/live/2032597/radioparlamento/radioparlamento/playlist.m3u8?auth=daEavaBcWcXaAd4cxcDbJarakcYdMbsbocP-bQG_Ov-c0-BjywzGw&aifp=V001
+https://radioparlamento-live.akamaized.net/hls/live/2032597/radioparlamento/radioparlamento/playlist.m3u8?auth=daEbjdTc1c_cAdAcedRdtaTbEduahbxa2cC-bQHuVr-c0-JmwwuGq&aifp=V001
 #EXTINF:-1,group-title="radio" radio="true",Radio Sportiva
 https://sportiva.inmystream.it/stream/sportiva
 #EXTINF:-1,group-title="radio" radio="true",RTL 102.5
 https://StreamCdnB4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",Radio Freccia
-https://StreamCdnP1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
+https://StreamCdnB1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",Radio Zeta
-https://StreamCdnB1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_audio.m3u8
+https://StreamCdnP1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] RTL 102.5 Best
-https://StreamCdnG18-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_audio.m3u8
+https://StreamCdnG7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] RTL 102.5 Bro&Sis
-https://StreamCdnG6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_audio.m3u8
+https://StreamCdnP6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] RTL 102.5 Romeo&Juliet
 https://StreamCdnB3-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] RTL 102.5 Napulè
-https://StreamCdnG22-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_audio.m3u8
+https://StreamCdnP5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] RTL 102.5 Doc
-https://StreamCdnG18-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_audio.m3u8
+https://StreamCdnB4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] RTL 102.5 News
 https://StreamCdnL2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_audio.m3u8
 #EXTINF:-1,group-title="radio" radio="true",Virgin Radio
@@ -94,39 +94,39 @@ https://edge.radiomontecarlo.net/RMC.mp3
 #EXTINF:-1,group-title="radio" radio="true",R101
 https://icy.unitedradio.it/r101
 #EXTINF:-1,group-title="radio" radio="true",Radio Capital
-https://StreamCdnL2-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
+https://StreamCdnP10-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Radio Capital Music
 https://StreamCdnL2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Radio Capital Classic Rock
-https://StreamCdnP8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
+https://StreamCdnB3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Radio Capital Funky Town
-https://StreamCdnP11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
+https://StreamCdnG11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Radio Capital W L'Italia
-https://StreamCdnL2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8
+https://StreamCdnP6-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Radio Capital Soft
-https://StreamCdnG3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/playlist.m3u8
+https://StreamCdnB2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",Radio Deejay
 https://StreamCdnB3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Deejay 30 Songs
-https://StreamCdnG14-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
+https://StreamCdnB3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay 80
-https://StreamCdnP10-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8
+https://StreamCdnB2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay Time
-https://StreamCdnB1-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8
+https://StreamCdnP2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay Tropical Pizza
 https://StreamCdnG17-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay One Two One Two
-https://StreamCdnB2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8
+https://StreamCdnP7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Radio Linetti
-https://StreamCdnG16-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8
+https://StreamCdnL2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay Suona Italia
-https://StreamCdnG5-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8
+https://StreamCdnB4-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay Gasolina
 https://StreamCdnP9-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay On The Road
-https://StreamCdnG7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8
+https://StreamCdnL2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",[Web] Deejay One Love
-https://StreamCdnB2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/playlist.m3u8
+https://StreamCdnP7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",Radio 105
 https://icy.unitedradio.it/Radio105.mp3
 #EXTINF:-1,group-title="radio" radio="true",Radio Subasio
@@ -150,7 +150,7 @@ https://nr7.newradio.it:18003/stream
 #EXTINF:-1,group-title="radio" radio="true",[DAB] Canale Italia +
 https://rci.canaleitalia.tv:8007
 #EXTINF:-1,group-title="radio" radio="true",m2o
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+https://StreamCdnB3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 #EXTINF:-1,group-title="radio" radio="true",Radio inBlu2000
 https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
 #EXTINF:-1,group-title="radio" radio="true",Radio Maria
