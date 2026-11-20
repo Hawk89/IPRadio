@@ -1,79 +1,1820 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-it.xml.gz"
-# Fulgione tivu.m3u - Community IPTV https://www.davidefulgione.com
-# @davide_tv - aggiornata il 18/08/2026 18:38
-#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506078_ba1324da.jpg" group-title="Rai",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506187_a9d5bfb2.jpg" group-title="Rai",Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506263_43646c31.png" group-title="Rai",Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506321_fcbb22de.png" group-title="Mediaset",Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506499_b86ee88a.png" group-title="Mediaset",Canale 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506575_a1ef6996.png" group-title="Mediaset",Italia 1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506629_9197b481.jpg" group-title="Nazionali",La 7
-https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/la7d.jpg" group-title="Nazionali",La 7d
-https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
-#EXTINF:-1 tvg-id="canale.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/canale7.png" group-title="Nazionali",Canale7
-http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="Realtime.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/real.png" group-title="Warner Bros",Real Time
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="discovery.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/dis.png" group-title="Warner Bros",Discovery Channel
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506720_ca878b1b.jpg" group-title="Sky",Tv 8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="NOVE.it" tvg-logo="https://www.davidefulgione.com/uploads/community/logo/u1_1366ea06325a.jpg" group-title="Warner Bros",NOve
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/fn.png" group-title="Warner Bros",Food Network
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506770_0cd8df97.jpg" group-title="Mediaset",20 Mediaset
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506850_cc2e7108.png" group-title="Rai",Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://www.davidefulgione.com/uploads/community/logo/u1_993e7f49bc33.jpg" group-title="Warner Bros",Dmax
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/giallo.jpg" group-title="Warner Bros",Giallo
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="hg.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/hg.jpg" group-title="Warner Bros",Home & Garden
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="turbo.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/turbo.png" group-title="Warner Bros",Turbo
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507011_0486c0c9.jpg" group-title="Rai",Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507202_6c384590.jpg" group-title="Rai",Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://www.davidefulgione.com/uploads/community/logo/u1_9022c6a4047b.png" group-title="Mediaset",Iris
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507101_72ca61de.jpg" group-title="Rai",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507178_896f22ff.jpg" group-title="Sky",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507282_23aa9d31.jpg" group-title="Mediaset",Twenty Seven
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="La5.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507331_da55beff.jpg" group-title="Mediaset",La 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507385_48cbe89a.jpg" group-title="Mediaset",Cine 34
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507524_590d842a.png" group-title="Mediaset",Focus
-https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507881_73bd0f83.png" group-title="Rai",Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507947_6d6735f7.jpg" group-title="Mediaset",Mediaset Extra
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507986_e1ceea6b.png" group-title="Rai",Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507559_cc9f0475.jpg" group-title="Mediaset",Top Crime
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Italia2.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507750_1374148a.png" group-title="Mediaset",Italia 2
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-logo="https://www.davidefulgione.com/uploads/community/logo/u1_da9e1268c701.jpg" group-title="Nazionali",Gambero Rosso
-https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778508049_23c50908.png" group-title="Rai",Rai Sport
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-logo="https://www.davidefulgione.com/uploads/community/logo/u1_d292bf4eeefc.png" group-title="Rai",Rai News
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="https://www.davidefulgione.com/uploads/community/logo/u1_785a2e0640dc.jpg" group-title="Nazionali",Il Sole 24 Ore
-https://amg14891-amg14891c8-amgplt0395.playout.now3.amagi.tv/playlist.m3u8
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="google-adsense-account" content="ca-pub-6750942771342737">
+<!-- ── SEO base ─────────────────────────────────────── -->
+<title>Web Developer Eboli Salerno | Davide Fulgione</title>
+<meta name="description" content="Davide Fulgione Web Developer – siti web, CRM, API REST, PWA. Eboli (SA).">
+<meta name="author"      content="Davide Fulgione">
+<meta name="robots"      content="index, follow">
+<link rel="canonical"    href="https://www.davidefulgione.com/">
+<meta name="theme-color" content="#d018ab">
+
+<!-- ── Open Graph (Facebook, LinkedIn, WhatsApp) ──── -->
+<meta property="og:type"         content="website">
+<meta property="og:url"          content="https://www.davidefulgione.com/">
+<meta property="og:title"        content="Web Developer Eboli Salerno | Davide Fulgione">
+<meta property="og:description"  content="Davide Fulgione Web Developer – siti web, CRM, API REST, PWA. Eboli (SA).">
+<meta property="og:image"        content="https://www.davidefulgione.com/assets/img/social.jpg">
+<meta property="og:image:width"  content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt"    content="Davide Fulgione — Web Developer">
+<meta property="og:site_name"    content="Davide Fulgione">
+<meta property="og:locale"       content="it_IT">
+
+<!-- ── Twitter Card ─────────────────────────────────── -->
+<meta name="twitter:card"        content="summary_large_image">
+<meta name="twitter:title"       content="Web Developer Eboli Salerno | Davide Fulgione">
+<meta name="twitter:description" content="Davide Fulgione Web Developer – siti web, CRM, API REST, PWA. Eboli (SA).">
+<meta name="twitter:image"       content="https://www.davidefulgione.com/assets/img/social.jpg">
+<meta name="twitter:image:alt"   content="Davide Fulgione — Web Developer">
+
+<!-- ── Schema.org JSON-LD ───────────────────────────── -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Davide Fulgione",
+  "url": "https://www.davidefulgione.com",
+  "image": "https://www.davidefulgione.com/assets/img/social.jpg",
+  "jobTitle": "Web Developer",
+  "description": "Web Developer freelance specializzato in siti web, CRM, API REST e PWA. Eboli, Salerno.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Eboli",
+    "addressRegion": "SA",
+    "addressCountry": "IT"
+  },
+  "email": "info@davidefulgione.com",
+  "sameAs": [
+    "https://it.linkedin.com/in/davide-fulgione-7002b930b",
+    "https://www.facebook.com/profile.php?id=61574595784227"
+  ],
+  "knowsAbout": ["PHP", "MySQL", "JavaScript", "CSS", "HTML", "API REST", "PWA", "SEO", "CRM", "E-commerce"]
+}
+</script>
+
+<!-- ── PWA ──────────────────────────────────────────── -->
+<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="DF Developer">
+
+<!-- ── Favicon ──────────────────────────────────────── -->
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+
+<!-- Font Google — Inter -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- CSS -->
+<link rel="stylesheet" href="/style.css?v=1787916378">
+<link rel="preload" as="image" type="image/webp" href="assets/img/hero/12-m.webp" media="(max-width:1024px)">
+<link rel="preload" as="image" type="image/webp" href="assets/img/hero/12-d.webp" media="(min-width:1025px)">
+
+<style>
+.nav-actions { display: flex; align-items: center; gap: .6rem; flex-shrink: 0; }
+.nav-btn-icon.cm-bell { position:relative; }
+.cm-bell {
+  background: linear-gradient(135deg, #7b2ff7, #4c1d95);
+  box-shadow: 0 3px 16px rgba(123,47,247,.35);
+}
+.cm-notif-badge {
+  position:absolute; top:-4px; right:-6px;
+  background:#d018ab; color:#fff; font-size:11px; font-weight:700;
+  min-width:17px; height:17px; line-height:17px; text-align:center;
+  border-radius:9px; padding:0 4px; box-shadow:0 0 0 2px #0d0818;
+}
+.mob-links .cm-notif-badge { position:static; margin-left:8px; }
+</style>
+
+<!-- Google Analytics — Consent Mode v2 -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    analytics_storage: 'denied',
+    wait_for_update: 500
+  });
+  gtag('js', new Date());
+  gtag('config', 'G-B0PL9TRBVL');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B0PL9TRBVL"></script>
+</head>
+<body>
+
+<!-- ── PAGE LOADER ── -->
+<div id="page-loader" aria-hidden="true">
+  <div class="loader-inner">
+    <div class="loader-logo">
+      <img src="/assets/img/davide.jpg" alt="Davide Fulgione">
+    </div>
+    <div class="loader-name">Davide Fulgione</div>
+    <div class="loader-bar-wrap">
+      <div class="loader-bar"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ── PAGE TRANSITION OVERLAY ── -->
+<div id="page-transition" aria-hidden="true"></div>
+
+<script>
+// Loader + transizioni pagina — inline per eseguire prima del CSS
+(function(){
+  var loader = document.getElementById('page-loader');
+  var overlay = document.getElementById('page-transition');
+
+  // Nascondi loader quando pagina è pronta
+  function hideLoader(){
+    loader.classList.add('loader-done');
+    setTimeout(function(){ loader.style.display = 'none'; }, 600);
+  }
+  if (document.readyState === 'complete') {
+    setTimeout(hideLoader, 800);
+  } else {
+    window.addEventListener('load', function(){ setTimeout(hideLoader, 400); });
+  }
+
+  // Transizione su click link interni
+  document.addEventListener('click', function(e){
+    var a = e.target.closest('a');
+    if (!a) return;
+    var href = a.getAttribute('href');
+    if (!href || href.startsWith('#') || href.startsWith('mailto:') ||
+        href.startsWith('tel:') || href.startsWith('http') ||
+        a.target === '_blank') return;
+    // Se l'href contiene un'ancora (#), lascia il browser gestire normalmente
+    if (href.indexOf('#') !== -1) return;
+    e.preventDefault();
+    overlay.classList.add('transition-out');
+    setTimeout(function(){ window.location.href = href; }, 350);
+  });
+
+  // Fade-in all'arrivo
+  window.addEventListener('pageshow', function(){
+    overlay.classList.remove('transition-out');
+  });
+})();
+</script>
+
+<!-- Orb sfondo -->
+<div class="bg-orb orb-1" aria-hidden="true"></div>
+<div class="bg-orb orb-2" aria-hidden="true"></div>
+
+<!-- ====================================================
+     NAVBAR
+==================================================== -->
+<header id="navbar">
+  <div class="nav-wrap">
+
+    <a href="/index.php" class="logo">
+      <span class="logo-photo-wrap"><img src="/assets/img/davide.jpg" alt="Davide Fulgione" width="38" height="38"></span>
+      <div class="logo-copy">
+        <span class="logo-name">Davide Fulgione</span>
+        <span class="logo-role">Developer</span>
+      </div>
+    </a>
+
+    <nav class="nav-links" aria-label="Menu principale">
+      <a href="/servizi.php"   class="nav-a">Servizi</a>
+      <a href="/script-template.php" class="nav-a">Script &amp; Template</a>
+      <a href="/blog.php"      class="nav-a">Blog</a>
+      <a href="/portfolio.php" class="nav-a">Portfolio</a>
+      <a href="/news.php"      class="nav-a">News</a>
+      <a href="/ludoteca.php"  class="nav-a">Ludoteca</a>
+      <a href="/community.php" class="nav-a">Community Iptv</a>
+    
+    </nav>
+
+    <div class="nav-actions">
+      <a href="/contatti.php" class="nav-btn nav-btn-icon" aria-label="Contattami">
+        <i class="far fa-envelope"></i>
+      </a>
+
+            <a href="/cm_login.php" class="nav-btn nav-btn-accedi">
+        <i class="fa fa-right-to-bracket"></i> <span>Accedi</span>
+      </a>
+          </div>
+
+    <button class="hamburger" id="hbg" aria-label="Apri menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+
+  </div>
+</header>
+
+<!-- Menu mobile -->
+<nav class="mob-nav" id="mobnav" aria-label="Menu mobile">
+  <ul class="mob-links">
+    <li><a href="/index.php">    <i class="fa fa-home"></i>      Home</a></li>
+    <li><a href="/servizi.php">  <i class="fa fa-code"></i>      Servizi</a></li>
+    <li><a href="/script-template.php"><i class="fa fa-cubes"></i>  Script &amp; Template</a></li>
+    <li><a href="/blog.php">     <i class="fa fa-newspaper"></i> Blog</a></li>
+    <li><a href="/portfolio.php"><i class="fa fa-briefcase"></i> Portfolio</a></li>
+    <li><a href="/news.php">     <i class="fa fa-rss"></i>       News</a></li>
+    <li><a href="/ludoteca.php"> <i class="fa fa-gamepad"></i>   Ludoteca</a></li>
+    <li><a href="/community.php"><i class="fa fa-users"></i>  Community IPTV</a></li>
+        <li><a href="/contatti.php"> <i class="far fa-envelope"></i> Contatti</a></li>
+        <li><a href="/cm_login.php"><i class="fa fa-right-to-bracket"></i> Accedi</a></li>
+      </ul>
+  <div class="mob-social">
+    <a href="https://it.linkedin.com/in/davide-fulgione-7002b930b" class="soc" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+    <a href="https://www.facebook.com/profile.php?id=61574595784227&locale=it_IT" class="soc" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
+  </div>
+</nav>
+
+
+<!-- ====================================================
+     HERO
+==================================================== -->
+<section class="hero" id="hero">
+
+  <!-- Slider sfondo: sorgenti dedicate mobile (ritaglio verticale) e desktop -->
+  <div class="slides" aria-hidden="true">
+
+    <div class="slide active">
+      <picture>
+        <source media="(max-width:1024px)" type="image/webp" srcset="assets/img/hero/12-m.webp">
+        <source media="(max-width:1024px)" type="image/jpeg" srcset="assets/img/hero/12-m.jpg">
+        <source type="image/webp" srcset="assets/img/hero/12-d.webp">
+        <img src="assets/img/hero/12-d.jpg" alt="" width="1600" height="912"
+             fetchpriority="high" decoding="async">
+      </picture>
+    </div>
+
+    <!-- Slide 2 e 3: solo desktop (display:none su mobile =&gt; non scaricate) -->
+    <div class="slide">
+      <picture>
+        <source type="image/webp" srcset="assets/img/hero/22-d.webp">
+        <img src="assets/img/hero/22-d.jpg" alt="" width="1600" height="1134"
+             loading="lazy" decoding="async">
+      </picture>
+    </div>
+
+    <div class="slide">
+      <picture>
+        <source type="image/webp" srcset="assets/img/hero/33-d.webp">
+        <img src="assets/img/hero/33-d.jpg" alt="" width="1600" height="1067"
+             loading="lazy" decoding="async">
+      </picture>
+    </div>
+
+  </div>
+  <div class="hero-veil" aria-hidden="true"></div>
+
+  <!-- Foto PNG fissa trasparente in primo piano -->
+  <div class="hero-png" aria-hidden="true">
+    <picture>
+      <source type="image/webp" srcset="assets/img/hero/1-d.webp">
+      <img src="assets/img/hero/1-d.png" alt="" width="1920" height="800"
+           fetchpriority="high" decoding="async">
+    </picture>
+  </div>
+
+  <div class="hero-body">
+
+    <div class="hero-pill">
+      <span class="pill-dot"></span>
+      Full Stack Web Developer
+    </div>
+
+    <h1 class="hero-title">
+      Davide Fulgione<br>
+      <em>Full Stack Developer</em>
+    </h1>
+
+    <p class="hero-sub">
+      "Non cercare subito il successo —<br>
+       inizia a dare valore ai tuoi progetti."
+    </p>
+
+    <div class="hero-actions">
+      <a href="community.php" class="btn-main">
+        <i class="fa fa-users"></i> Community IPtv
+      </a>
+      <a href="servizi.php" class="btn-ghost">
+        <i class="fa fa-code"></i> Servizi
+      </a>
+    </div>
+
+    <div class="hero-search">
+      <input type="text" id="hero-search-input" placeholder="Cerca Articoli nel Blog..." autocomplete="off">
+      <button type="button" id="hero-search-btn" aria-label="Cerca">
+        <i class="fa fa-search"></i>
+      </button>
+    </div>
+
+  </div>
+
+</section>
+
+<script>
+(function(){
+  // Slider solo su desktop — su mobile rimane fisso su 12.jpg
+  if (window.innerWidth >= 1025) {
+    var sl  = document.querySelectorAll('.slides .slide');
+    var cur = 0;
+    setInterval(function(){
+      sl[cur].classList.remove('active');
+      cur = (cur + 1) % sl.length;
+      sl[cur].classList.add('active');
+    }, 5000);
+  }
+
+  // Ricerca blog
+  var inp = document.getElementById('hero-search-input');
+  var btn = document.getElementById('hero-search-btn');
+  function doSearch(){
+    var q = inp.value.trim();
+    if (q !== '') {
+      window.location.href = 'blog.php?q=' + encodeURIComponent(q);
+    }
+  }
+  btn.addEventListener('click', doSearch);
+  inp.addEventListener('keydown', function(e){
+    if (e.key === 'Enter') doSearch();
+  });
+})();
+</script>
+
+<!-- Pulsante PayPal ufficiale: reso fuori schermo e pilotato dalla
+     card di sostegno. Se lo script non arriva (blocco pubblicitario,
+     rete), il pulsante resta un link vero al modulo ospitato. -->
+<div class="dfs-pp-sdk" aria-hidden="true"><div id="dfs-pp-btn"></div></div>
+
+<script>
+(function () {
+  var pot = document.getElementById('dfs-pp-btn');
+  if (!pot) return;
+
+  var s = document.createElement('script');
+  s.src = 'https://www.paypalobjects.com/donate/sdk/donate-sdk.js';
+  s.charset = 'UTF-8';
+  s.async = true;
+  s.onload = function () {
+    if (!window.PayPal || !window.PayPal.Donation) return;
+    try {
+      PayPal.Donation.Button({
+        env: 'production',
+        hosted_button_id: '9XPQBN8MQVZE2',
+        image: {
+          src:   'https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_SM.gif',
+          alt:   'Fai una donazione con il pulsante PayPal',
+          title: 'PayPal - The safer, easier way to pay online!'
+        }
+      }).render('#dfs-pp-btn');
+    } catch (e) {}
+  };
+  document.head.appendChild(s);
+
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest ? ev.target.closest('[data-pp]') : null;
+    if (!a) return;
+    var vero = pot.querySelector('a, img, button, input');
+    if (!vero) return;   // SDK non disponibile: vale href del link
+    ev.preventDefault();
+    vero.click();
+  });
+})();
+</script>
+
+<!-- sections-wrap: sale sopra la hero fixed -->
+<div class="sections-wrap">
+
+<!-- ====================================================
+     ULTIMI ARTICOLI BLOG
+==================================================== -->
+<section class="blog-section page-section" id="ultimi-blog">
+
+  <!-- ===== Fascia oro: collegamenti rapidi (stile community) ===== -->
+  <nav class="bs-hub" aria-label="Collegamenti rapidi">
+    <div class="bs-hub-in">
+
+      <a class="bs-hub-t" href="#news-newsletter" data-nlfocus="1"
+         title="Iscriviti alla newsletter">
+        <i class="fa fa-envelope-open-text" aria-hidden="true"></i>
+        <span class="bs-hub-lb">Iscriviti alla Newsletter</span>
+        <span class="bs-hub-lb-s">Newsletter</span>
+                <span class="bs-hub-n" title="5.611 iscritti confermati">5.611</span>
+              </a>
+
+      <a class="bs-hub-t" href="/radio/" title="Radio italiane in streaming">
+        <i class="fa fa-radio" aria-hidden="true"></i>
+        <span class="bs-hub-lb">Radio Live</span>
+        <span class="bs-hub-lb-s">Radio</span>
+        <span class="bs-hub-live" aria-hidden="true"></span>
+      </a>
+
+      <a class="bs-hub-t" href="script-template.php" title="Sviluppo Web">
+        <i class="fa fa-users" aria-hidden="true"></i>
+        <span class="bs-hub-lb">Web Agency</span>
+        <span class="bs-hub-lb-s">Sviluppo Web professionale</span>
+      </a>
+
+    </div>
+  </nav>
+  <div class="blog-inner">
+
+    <!-- ===== Sostegno al progetto ===== -->
+    <div class="dfs-sup">
+      <span class="dfs-sup-ico" aria-hidden="true"><i class="fa fa-code"></i></span>
+
+      <div class="dfs-sup-txt">
+        <h2>Sostieni il progetto</h2>
+        <p>
+          Gli script, le app e gli strumenti che pubblico qui sono gratuiti e nascono
+          nel tempo libero. Se qualcosa ti ha fatto risparmiare una serata di lavoro,
+          un contributo libero aiuta a scriverne di nuovi.
+        </p>
+      </div>
+
+      <div class="dfs-sup-act">
+        <a class="dfs-pp" data-pp
+           href="https://www.paypal.com/donate/?hosted_button_id=9XPQBN8MQVZE2"
+           target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-paypal" aria-hidden="true"></i> Sostieni con PayPal
+        </a>
+      </div>
+    </div>
+
+    <div class="blog-header">
+      <div class="blog-header-left">
+        <span class="blog-badge"><i class="fa fa-newspaper"></i> Blog</span>
+        <h2 class="blog-title">Ultimi Articoli</h2>
+      </div>
+      <a href="blog.php" class="blog-all">
+        Tutti gli articoli <i class="fa fa-arrow-right"></i>
+      </a>
+    </div>
+
+    <div class="blog-scroll-area">
+      <button class="blog-arrow blog-arrow--prev" id="blog-prev" aria-label="Scorri sinistra">
+        <i class="fa fa-chevron-left"></i>
+      </button>
+
+      <div class="blog-track-wrap" id="blog-wrap" style="-webkit-overflow-scrolling:touch;">
+        <div class="blog-track" id="blog-track">
+
+          <a href="blog.php?slug=la-mia-lista-un-link-una-guida-tv-addio-a-tante-liste-e-tanti-epg" class="blog-card">
+            <div class="blog-card-img">
+              <img src="assets/img/blog/blog_1792588133_b502f6ad.jpg" alt="La mia lista: un link, una guida TV. Addio a tante liste e tanti EPG" loading="lazy">
+                            <span class="blog-cat">IPTV</span>
+                          </div>
+            <div class="blog-card-body">
+              <h3 class="blog-card-title">La mia lista: un link, una guida TV. Addio a tante liste e tanti EPG</h3>
+              <p class="blog-card-sum">Da oggi nella Community IPTV basta un solo link: dentro ci sono i canali che hai scelto tu e la guid…</p>
+              <div class="blog-card-meta">
+                <span><i class="fa fa-calendar-days"></i> 21 Oct 2026</span>
+                <span><i class="fa fa-eye"></i> 1,341</span>
+              </div>
+            </div>
+          </a>
+          <a href="blog.php?slug=la-mia-lista-costruisci-la-tua-tv-con-i-canali-della-community-iptv" class="blog-card">
+            <div class="blog-card-img">
+              <img src="assets/img/blog/blog_1792568425_1744412f.jpg" alt="La mia lista: costruisci la tua TV con i canali della Community IPTV" loading="lazy">
+                            <span class="blog-cat">IPTV</span>
+                          </div>
+            <div class="blog-card-body">
+              <h3 class="blog-card-title">La mia lista: costruisci la tua TV con i canali della Community IPTV</h3>
+              <p class="blog-card-sum">La mia lista iptv m3u è la tua lista M3U personale. La costruisci tu, scegliendo canale per canale t…</p>
+              <div class="blog-card-meta">
+                <span><i class="fa fa-calendar-days"></i> 21 Oct 2026</span>
+                <span><i class="fa fa-eye"></i> 868</span>
+              </div>
+            </div>
+          </a>
+          <a href="blog.php?slug=dietro-le-quinte-dello-streaming-perche-la-tua-iptv-fa-i-capricci-e-come-parlano-i-diversi-dispositivi" class="blog-card">
+            <div class="blog-card-img">
+              <img src="assets/img/blog/blog_1791966260_a76dbd6f.jpg" alt="Dietro le quinte dello streaming: perché la tua IPTV fa i capricci (e come parlano i diversi dispositivi)" loading="lazy">
+                            <span class="blog-cat">IPTV</span>
+                          </div>
+            <div class="blog-card-body">
+              <h3 class="blog-card-title">Dietro le quinte dello streaming: perché la tua IPTV fa i capricci (e come parlano i diversi dispositivi)</h3>
+              <p class="blog-card-sum">Se ti sei chiesto perché lo stesso identico canale funzioni alla perfezione sullo smartphone e si ri…</p>
+              <div class="blog-card-meta">
+                <span><i class="fa fa-calendar-days"></i> 14 Oct 2026</span>
+                <span><i class="fa fa-eye"></i> 297</span>
+              </div>
+            </div>
+          </a>
+          <a href="blog.php?slug=cose-la-piattaforma-ministra-ex-stalker-portal" class="blog-card">
+            <div class="blog-card-img">
+              <img src="assets/img/blog/blog_1791450292_f4080742.webp" alt="Cos&#039;è la piattaforma Ministra (ex Stalker Portal)?" loading="lazy">
+                            <span class="blog-cat">IPTV</span>
+                          </div>
+            <div class="blog-card-body">
+              <h3 class="blog-card-title">Cos&#039;è la piattaforma Ministra (ex Stalker Portal)?</h3>
+              <p class="blog-card-sum">In un servizio IPTV professionale non basta avere dei flussi video (i canali TV). Serve un sistema c…</p>
+              <div class="blog-card-meta">
+                <span><i class="fa fa-calendar-days"></i> 08 Oct 2026</span>
+                <span><i class="fa fa-eye"></i> 391</span>
+              </div>
+            </div>
+          </a>
+          <a href="blog.php?slug=guida-tecnica-cose-e-come-funziona-la-tecnologia-xtream-api-nelliptv" class="blog-card">
+            <div class="blog-card-img">
+              <img src="assets/img/blog/blog_1790853986_072e428f.jpg" alt="Guida Tecnica: Cos&#039;è e Come Funziona la tecnologia Xtream API nell&#039;IPTV" loading="lazy">
+                            <span class="blog-cat">IPTV</span>
+                          </div>
+            <div class="blog-card-body">
+              <h3 class="blog-card-title">Guida Tecnica: Cos&#039;è e Come Funziona la tecnologia Xtream API nell&#039;IPTV</h3>
+              <p class="blog-card-sum">Nel panorama dello streaming digitale, la distribuzione dei contenuti video ha visto un&#039;evoluzione r…</p>
+              <div class="blog-card-meta">
+                <span><i class="fa fa-calendar-days"></i> 01 Oct 2026</span>
+                <span><i class="fa fa-eye"></i> 195</span>
+              </div>
+            </div>
+          </a>
+          <a href="blog.php?slug=perche-i-canali-rai-non-funzionano-o-sono-muti-sulla-iptv" class="blog-card">
+            <div class="blog-card-img">
+              <img src="assets/img/blog/blog_1787939401_715e14c1.jpeg" alt="Perché i canali Rai non funzionano o sono muti sulla IPTV?" loading="lazy">
+                            <span class="blog-cat">IPTV</span>
+                          </div>
+            <div class="blog-card-body">
+              <h3 class="blog-card-title">Perché i canali Rai non funzionano o sono muti sulla IPTV?</h3>
+              <p class="blog-card-sum">Il problema non dipende dalla tua linea internet e, nella maggior parte dei casi, nemmeno dalla &quot;bon…</p>
+              <div class="blog-card-meta">
+                <span><i class="fa fa-calendar-days"></i> 28 Aug 2026</span>
+                <span><i class="fa fa-eye"></i> 820</span>
+              </div>
+            </div>
+          </a>
+
+        </div><!-- /blog-track -->
+      </div><!-- /blog-track-wrap -->
+
+      <button class="blog-arrow blog-arrow--next" id="blog-next" aria-label="Scorri destra">
+        <i class="fa fa-chevron-right"></i>
+      </button>
+    </div><!-- /blog-scroll-area -->
+
+  </div><!-- /blog-inner -->
+</section>
+
+<script>
+function initScroller(wrapId, trackId, prevId, nextId, cardClass) {
+  var wrap  = document.getElementById(wrapId);
+  var track = document.getElementById(trackId);
+  var prev  = document.getElementById(prevId);
+  var next  = document.getElementById(nextId);
+  if (!wrap || !track) return;
+
+  var GAP = 16;
+
+  function setCardWidths() {
+    var cards = track.querySelectorAll('.' + cardClass);
+    if (!cards.length) return;
+    if (window.innerWidth < 1025) {
+      cards.forEach(function(c){ c.style.width = ''; });
+      return;
+    }
+    var w = Math.floor((wrap.clientWidth - GAP * 2) / 3);
+    cards.forEach(function(c){ c.style.width = w + 'px'; });
+  }
+
+  function pageW() {
+    var card = track.querySelector('.' + cardClass);
+    if (!card) return wrap.clientWidth;
+    return (card.offsetWidth + GAP) * 3;
+  }
+
+  function updateArrows() {
+    if (!prev || !next) return;
+    prev.classList.toggle(cardClass.replace('-card','') + '-arrow--hidden', wrap.scrollLeft <= 4);
+    next.classList.toggle(cardClass.replace('-card','') + '-arrow--hidden', wrap.scrollLeft >= wrap.scrollWidth - wrap.clientWidth - 4);
+  }
+
+  setCardWidths();
+  updateArrows();
+  window.addEventListener('resize', function(){ setCardWidths(); updateArrows(); });
+
+  if (prev) prev.addEventListener('click', function(){ wrap.scrollBy({ left: -pageW(), behavior: 'smooth' }); });
+  if (next) next.addEventListener('click', function(){ wrap.scrollBy({ left:  pageW(), behavior: 'smooth' }); });
+  wrap.addEventListener('scroll', updateArrows, { passive: true });
+
+  /* Drag solo su desktop — non interferisce con touch Safari */
+  if (!('ontouchstart' in window)) {
+    var isDown = false, startX = 0, scrollStart = 0;
+    wrap.addEventListener('mousedown', function(e){
+      isDown = true; startX = e.pageX; scrollStart = wrap.scrollLeft;
+      wrap.style.cursor = 'grabbing'; wrap.style.userSelect = 'none';
+    });
+    document.addEventListener('mouseup', function(){
+      if (!isDown) return; isDown = false;
+      wrap.style.cursor = ''; wrap.style.userSelect = '';
+    });
+    document.addEventListener('mousemove', function(e){
+      if (!isDown) return; e.preventDefault();
+      wrap.scrollLeft = scrollStart - (e.pageX - startX);
+    });
+  }
+}
+
+initScroller('blog-wrap', 'blog-track', 'blog-prev', 'blog-next', 'blog-card');
+
+/* Barra oro: il pulsante Newsletter porta al form e mette il focus sull'email */
+(function(){
+  var t = document.querySelector('.bs-hub-t[data-nlfocus]');
+  if (!t) return;
+  t.addEventListener('click', function(){
+    setTimeout(function(){
+      var i = document.getElementById('nl-email');
+      if (i) { try { i.focus({ preventScroll: true }); } catch(e) { i.focus(); } }
+    }, 650);
+  });
+})();
+</script>
+
+<!-- ====================================================
+     NEWS + NEWSLETTER — sezione unica due colonne
+==================================================== -->
+<section class="news-nl-section page-section" id="news-newsletter">
+
+  
+  <div class="news-nl-wrap">
+
+    <!-- COLONNA SINISTRA: News -->
+    <div class="news-nl-col news-nl-col--news">
+
+      <div class="news-header">
+        <div class="news-header-left">
+          <span class="news-badge"><i class="fa fa-rss"></i> News</span>
+          <h2 class="news-title">Ultime Notizie</h2>
+        </div>
+        <a href="news.php" class="news-all">
+          Tutte le notizie <i class="fa fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <ul class="news-list">
+        <li class="news-list-item">
+          <a href="news.php?slug=guarda-la-tv-in-chiaro-senza-antenna">
+            <span class="news-list-thumb">
+              <i class="fa fa-newspaper" aria-hidden="true"></i>
+              <img src="/assets/img/news/news_1787826093_af96f72e.jpg" alt="" width="76" height="76"
+                   loading="lazy" decoding="async"
+                   onerror="this.style.display='none';">
+            </span>
+            <span class="news-list-body">
+                            <span class="news-list-cat">Altro</span>
+                            <span class="news-list-title">Guarda la TV in chiaro senza antenna</span>
+              <span class="news-list-date"><i class="fa fa-calendar-days"></i> 27 Aug 2026</span>
+            </span>
+          </a>
+        </li>
+        <li class="news-list-item">
+          <a href="news.php?slug=ommunity-iptv-crea-e-condividi-le-tue-liste-tv-gratis">
+            <span class="news-list-thumb">
+              <i class="fa fa-newspaper" aria-hidden="true"></i>
+              <img src="/assets/img/news/news_1785487265_0bd692db.jpg" alt="" width="76" height="76"
+                   loading="lazy" decoding="async"
+                   onerror="this.style.display='none';">
+            </span>
+            <span class="news-list-body">
+                            <span class="news-list-cat">Altro</span>
+                            <span class="news-list-title">Community IPTV: crea e condividi le tue liste TV, gratis</span>
+              <span class="news-list-date"><i class="fa fa-calendar-days"></i> 31 Jul 2026</span>
+            </span>
+          </a>
+        </li>
+        <li class="news-list-item">
+          <a href="news.php?slug=liste-m3u-per-iptv-come-crearle-importarle-nei-player-e-perche-a-volte-non-funzionano">
+            <span class="news-list-thumb">
+              <i class="fa fa-newspaper" aria-hidden="true"></i>
+              <img src="/assets/img/news/news_1782540783_8b92ed19.jpg" alt="" width="76" height="76"
+                   loading="lazy" decoding="async"
+                   onerror="this.style.display='none';">
+            </span>
+            <span class="news-list-body">
+                            <span class="news-list-cat">PHP</span>
+                            <span class="news-list-title">Liste M3U per IPTV: come crearle, importarle nei player e perché a volte non funzionano</span>
+              <span class="news-list-date"><i class="fa fa-calendar-days"></i> 27 Jun 2026</span>
+            </span>
+          </a>
+        </li>
+        <li class="news-list-item">
+          <a href="news.php?slug=e-la-fine-anche-della-iptv-e-dei-flussi-m3u-liberi">
+            <span class="news-list-thumb">
+              <i class="fa fa-newspaper" aria-hidden="true"></i>
+              <img src="/assets/img/news/news_1778566866_8f1e9716.jpg" alt="" width="76" height="76"
+                   loading="lazy" decoding="async"
+                   onerror="this.style.display='none';">
+            </span>
+            <span class="news-list-body">
+                            <span class="news-list-cat">Altro</span>
+                            <span class="news-list-title">E&#039; la fine anche della IPTV e dei flussi m3u liberi?</span>
+              <span class="news-list-date"><i class="fa fa-calendar-days"></i> 12 May 2026</span>
+            </span>
+          </a>
+        </li>
+        <li class="news-list-item">
+          <a href="news.php?slug=liste-m3u-iptv-in-aggiornamento">
+            <span class="news-list-thumb">
+              <i class="fa fa-newspaper" aria-hidden="true"></i>
+              <img src="/assets/img/news/news_1778486834_16fe31d7.jpg" alt="" width="76" height="76"
+                   loading="lazy" decoding="async"
+                   onerror="this.style.display='none';">
+            </span>
+            <span class="news-list-body">
+                            <span class="news-list-cat">Altro</span>
+                            <span class="news-list-title">Liste M3u Iptv in aggiornamento</span>
+              <span class="news-list-date"><i class="fa fa-calendar-days"></i> 11 May 2026</span>
+            </span>
+          </a>
+        </li>
+        <li class="news-list-item">
+          <a href="news.php?slug=benvenuto-nel-nuovo-sito-un-progetto-costruito-con-cura-codice-e-passione">
+            <span class="news-list-thumb">
+              <i class="fa fa-newspaper" aria-hidden="true"></i>
+              <img src="/assets/img/news/news_1777959179_a1f476e7.jpg" alt="" width="76" height="76"
+                   loading="lazy" decoding="async"
+                   onerror="this.style.display='none';">
+            </span>
+            <span class="news-list-body">
+                            <span class="news-list-cat">Altro</span>
+                            <span class="news-list-title">Benvenuto nel nuovo sito — un progetto costruito con cura, codice e passione</span>
+              <span class="news-list-date"><i class="fa fa-calendar-days"></i> 05 May 2026</span>
+            </span>
+          </a>
+        </li>
+      </ul>
+
+    </div><!-- /col news -->
+
+    <!-- DIVISORE VERTICALE -->
+    <div class="news-nl-divider" aria-hidden="true"></div>
+
+    <!-- COLONNA DESTRA: Newsletter -->
+    <div class="news-nl-col news-nl-col--nl">
+
+      <div class="nl-inner">
+        <div class="nl-badge">
+          <i class="fa fa-envelope-open-text"></i>
+          Newsletter
+        </div>
+        <h2 class="nl-title">Resta sempre aggiornato</h2>
+        <p class="nl-sub">
+          Articoli su sviluppo web, tips PHP/MySQL, novità dal mondo tech.<br>
+          Niente spam — solo contenuti che vale la pena leggere.
+        </p>
+        <form class="nl-form" id="nl-form" novalidate>
+          <input type="text" name="website" id="nl-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <input type="hidden" name="csrf_token" id="nl-csrf" value="535ac28dfc58886811e3644d959b0796843e79e3d437a4b12ea2b3db5cde5a9c">
+          <div class="nl-field-wrap">
+            <i class="fa fa-envelope nl-field-icon"></i>
+            <input type="email" name="email" id="nl-email" class="nl-input"
+              placeholder="La tua email..." autocomplete="email" required>
+            <button type="submit" class="nl-btn" id="nl-submit">
+              <span class="nl-btn-text">Iscriviti</span>
+              <i class="fa fa-arrow-right nl-btn-icon"></i>
+              <span class="nl-spinner" aria-hidden="true"></span>
+            </button>
+          </div>
+          <div class="nl-msg" id="nl-msg" role="alert" aria-live="polite"></div>
+          <p class="nl-privacy">
+            <i class="fa fa-lock"></i>
+            Confermando riceverai una mail di verifica.
+          </p>
+        </form>
+
+                <p class="nl-count">
+          <span class="nl-count-dot" aria-hidden="true"></span>
+          <span><b>5.611</b> persone ricevono gi&agrave; la newsletter</span>
+        </p>
+              </div>
+
+      <div class="nl-orb nl-orb-l" aria-hidden="true"></div>
+      <div class="nl-orb nl-orb-r" aria-hidden="true"></div>
+
+    </div><!-- /col nl -->
+
+  </div><!-- /news-nl-wrap -->
+
+</section>
+
+<script>
+(function(){
+  var form    = document.getElementById('nl-form');
+  var input   = document.getElementById('nl-email');
+  var msg     = document.getElementById('nl-msg');
+  var btn     = document.getElementById('nl-submit');
+  var lastSub = 0;
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    var now = Date.now();
+    if (now - lastSub < 8000) return;
+    lastSub = now;
+    var email = input.value.trim();
+    var honey = document.getElementById('nl-honey').value;
+    if (!email) { showMsg('Inserisci la tua email.', 'error'); return; }
+    btn.disabled = true; btn.classList.add('loading');
+    msg.className = 'nl-msg'; msg.textContent = '';
+    var fd = new FormData();
+    fd.append('email', email);
+    fd.append('website', honey);
+    fd.append('csrf_token', document.getElementById('nl-csrf').value);
+    fetch('newsletter_subscribe.php', { method: 'POST', body: fd })
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        showMsg(data.message, data.status);
+        if (data.status === 'success' || data.status === 'already') input.value = '';
+      })
+      .catch(function(){ showMsg('Errore di rete. Riprova tra poco.', 'error'); })
+      .finally(function(){ btn.disabled = false; btn.classList.remove('loading'); });
+  });
+  function showMsg(text, type){
+    msg.textContent = text;
+    msg.className = 'nl-msg nl-msg--' + type + ' nl-msg--visible';
+  }
+})();
+</script>
+
+
+<!-- ====================================================
+     SERVIZI DETTAGLIO
+==================================================== -->
+<!-- ====================================================
+     TECH STACK — scroller slim
+==================================================== -->
+<section class="srv-stack page-section">
+  <div class="srv-stack-inner">
+    <div class="srv-stack-label">Tech stack</div>
+    <div class="srv-stack-track-wrap">
+      <div class="srv-stack-track">
+        <div class="srv-tech"><i class="fa-brands fa-php"></i><span>PHP</span></div>
+        <div class="srv-tech"><i class="fa fa-database"></i><span>MySQL</span></div>
+        <div class="srv-tech"><i class="fa-brands fa-js"></i><span>JavaScript</span></div>
+        <div class="srv-tech"><i class="fa-brands fa-html5"></i><span>HTML5</span></div>
+        <div class="srv-tech"><i class="fa-brands fa-css3-alt"></i><span>CSS3</span></div>
+        <div class="srv-tech"><i class="fa fa-c"></i><span>C</span></div>
+        <div class="srv-tech"><i class="fa fa-c"></i><span>C++</span></div>
+        <div class="srv-tech"><i class="fa-brands fa-python"></i><span>Python</span></div>
+        <div class="srv-tech"><i class="fa fa-window-maximize"></i><span>ASP.NET</span></div>
+        <div class="srv-tech"><i class="fa fa-mobile-screen-button"></i><span>PWA</span></div>
+        <div class="srv-tech"><i class="fa fa-plug"></i><span>REST API</span></div>
+        <div class="srv-tech"><i class="fa-brands fa-git-alt"></i><span>Git</span></div>
+        <div class="srv-tech"><i class="fa fa-server"></i><span>Linux Server</span></div>
+        <div class="srv-tech"><i class="fa fa-shield-halved"></i><span>SSL / HTTPS</span></div>
+        <div class="srv-tech"><i class="fa fa-terminal"></i><span>Bash / CLI</span></div>
+        <div class="srv-tech"><i class="fa fa-brain"></i><span>AI / LLM</span></div>
+        <!-- Duplicati per scroll continuo -->
+        <div class="srv-tech" aria-hidden="true"><i class="fa-brands fa-php"></i><span>PHP</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-database"></i><span>MySQL</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa-brands fa-js"></i><span>JavaScript</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa-brands fa-html5"></i><span>HTML5</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa-brands fa-css3-alt"></i><span>CSS3</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-c"></i><span>C</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-c"></i><span>C++</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa-brands fa-python"></i><span>Python</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-window-maximize"></i><span>ASP.NET</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-mobile-screen-button"></i><span>PWA</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-plug"></i><span>REST API</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa-brands fa-git-alt"></i><span>Git</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-server"></i><span>Linux Server</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-shield-halved"></i><span>SSL / HTTPS</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-terminal"></i><span>Bash / CLI</span></div>
+        <div class="srv-tech" aria-hidden="true"><i class="fa fa-brain"></i><span>AI / LLM</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="svcd-section page-section" id="servizi-dettaglio">
+  <div class="svcd-inner">
+
+    <div class="svcd-head">
+      <span class="svcd-badge"><i class="fa fa-code"></i> Cosa faccio</span>
+      <h2 class="svcd-title">Soluzioni digitali<br><em>su misura per te</em></h2>
+      <p class="svcd-sub">Dal concept al deploy — ogni progetto nasce da un ascolto attento e si traduce in codice pulito, performante e scalabile.</p>
+    </div>
+
+    <div class="svcd-grid">
+
+      <div class="svcd-card">
+        <div class="svcd-card-icon"><i class="fa fa-pen-ruler"></i></div>
+        <div class="svcd-card-body">
+          <h3>Design &amp; UX</h3>
+          <p>Interfacce moderne, intuitive e responsive. Studio il brand e progetto layout che convertono, con attenzione all'accessibilità e alla user experience.</p>
+          <ul class="svcd-tags"><li>Figma</li><li>Wireframe</li><li>UI/UX</li><li>Responsive</li></ul>
+        </div>
+      </div>
+
+      <div class="svcd-card">
+        <div class="svcd-card-icon"><i class="fa fa-code"></i></div>
+        <div class="svcd-card-body">
+          <h3>Sviluppo Web</h3>
+          <p>Siti web e web-app custom in PHP, MySQL, HTML/CSS e JavaScript. Codice pulito, veloce, sicuro — senza framework inutili se non servono.</p>
+          <ul class="svcd-tags"><li>PHP</li><li>MySQL</li><li>JavaScript</li><li>CSS</li></ul>
+        </div>
+      </div>
+
+      <div class="svcd-card">
+        <div class="svcd-card-icon"><i class="fa fa-cart-shopping"></i></div>
+        <div class="svcd-card-body">
+          <h3>E-commerce</h3>
+          <p>Negozi online su misura o basati su WooCommerce/Prestashop, ottimizzati per le conversioni con checkout fluido, pagamenti sicuri e gestione ordini.</p>
+          <ul class="svcd-tags"><li>WooCommerce</li><li>Prestashop</li><li>Stripe</li><li>PayPal</li></ul>
+        </div>
+      </div>
+
+      <div class="svcd-card">
+        <div class="svcd-card-icon"><i class="fa fa-plug"></i></div>
+        <div class="svcd-card-body">
+          <h3>API REST</h3>
+          <p>Progettazione e sviluppo di API RESTful documentate, sicure e scalabili. Integro servizi di terze parti e costruisco backend per app mobile e SPA.</p>
+          <ul class="svcd-tags"><li>REST</li><li>JSON</li><li>JWT</li><li>OAuth</li></ul>
+        </div>
+      </div>
+
+      <div class="svcd-card">
+        <div class="svcd-card-icon"><i class="fa fa-gears"></i></div>
+        <div class="svcd-card-body">
+          <h3>ERP &amp; CRM</h3>
+          <p>Sistemi gestionali personalizzati per automatizzare processi aziendali: gestione clienti, fatturazione, magazzino e reportistica avanzata.</p>
+          <ul class="svcd-tags"><li>Dashboard</li><li>Reporting</li><li>Automazione</li><li>MySQL</li></ul>
+        </div>
+      </div>
+
+      <div class="svcd-card">
+        <div class="svcd-card-icon"><i class="fa fa-magnifying-glass-chart"></i></div>
+        <div class="svcd-card-body">
+          <h3>SEO &amp; Performance</h3>
+          <p>Ottimizzazione tecnica on-page e off-page per scalare le SERP. Core Web Vitals, velocità di caricamento, structured data e analisi della concorrenza.</p>
+          <ul class="svcd-tags"><li>Core Web Vitals</li><li>Schema.org</li><li>GTM</li><li>Analytics</li></ul>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="svcd-cta">
+      <a href="servizi.php" class="svcd-btn-main"><i class="fa fa-arrow-right"></i> Scopri tutti i servizi</a>
+      <a href="contatti.php" class="svcd-btn-ghost"><i class="far fa-envelope"></i> Parliamo del tuo progetto</a>
+    </div>
+
+  </div>
+</section>
+
+  <!-- ══ LE MIE APP (Ludoteca) ════════════════════════════════ -->
+    <section class="appsbox-section page-section" id="le-mie-app">
+    <style>
+    /* Promo app/prodotti (scoped .appsbox-*) — slim, senza card di sfondo */
+    /* Sfondo: la stessa foto della Ludoteca, sfocata da un velo con
+       backdrop-filter. Il velo sta sopra il background della sezione,
+       quindi sfoca la foto e non il contenuto, che sale con z-index. */
+    .appsbox-section {
+      position: relative;
+      padding: clamp(2.5rem,5vw,4rem) clamp(1.25rem,5vw,3rem) clamp(3rem,5vw,4.5rem);
+      background: url('img/sfondo.jpg') center center / cover no-repeat;
+    }
+    .appsbox-section::before {
+      content: ''; position: absolute; inset: 0; z-index: 0;
+      background: rgba(7,5,14,.76);
+      -webkit-backdrop-filter: blur(28px) saturate(115%);
+      backdrop-filter: blur(28px) saturate(115%);
+    }
+    @supports not ((backdrop-filter: blur(2px)) or (-webkit-backdrop-filter: blur(2px))) {
+      .appsbox-section::before { background: rgba(7,5,14,.94); }
+    }
+    .appsbox-card { position: relative; z-index: 1; max-width: 1100px; margin: 0 auto; }
+    .appsbox-head { text-align: center; max-width: 600px; margin: 0 auto clamp(1.2rem,3vw,1.8rem); }
+    .appsbox-badge {
+      display: inline-flex; align-items: center; gap: .45rem;
+      padding: .26rem .8rem; border-radius: 30px;
+      background: rgba(208,24,171,.1); border: 1px solid rgba(208,24,171,.28);
+      font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: #e066cc; margin-bottom: .85rem;
+    }
+    .appsbox-title { font-size: clamp(1.35rem,3vw,1.8rem); font-weight: 700; letter-spacing: -.025em; color: #f7f4ff; margin: 0 0 .45rem; line-height: 1.15; }
+    .appsbox-sub { font-size: .85rem; color: rgba(255,255,255,.55); margin: 0; line-height: 1.65; }
+    /* Scroller orizzontale: stessa meccanica di .blog-track,
+       mossa dalla initScroller() globale della sezione blog. */
+    .appsbox-scroll-area { position: relative; }
+    .appsbox-track-wrap {
+      overflow-x: auto; overflow-y: visible;
+      -webkit-overflow-scrolling: touch;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: none; -ms-overflow-style: none;
+      padding: .5rem 0 1rem;
+    }
+    .appsbox-track-wrap::-webkit-scrollbar { display: none; }
+    .appsbox-track { display: flex; gap: 1rem; width: max-content; }
+    .appsbox-arrow {
+      display: none; position: absolute; top: 50%; transform: translateY(-50%);
+      z-index: 20; width: 40px; height: 40px; border-radius: 50%;
+      border: 1px solid rgba(208,24,171,.32); background: rgba(7,5,14,.88);
+      backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+      color: #e066cc; font-size: .8rem;
+      align-items: center; justify-content: center; cursor: pointer;
+      transition: border-color .2s, background .2s, opacity .25s;
+      box-shadow: 0 3px 14px rgba(0,0,0,.45);
+    }
+    .appsbox-arrow:hover { border-color: #e066cc; background: rgba(208,24,171,.16); }
+    .appsbox-arrow--prev { left: -52px; }
+    .appsbox-arrow--next { right: -52px; }
+    /* initScroller ricava il nome da cardClass: 'appsbox-app' */
+    .appsbox-app-arrow--hidden { opacity: 0; pointer-events: none; }
+    @media (min-width: 1025px) {
+      .appsbox-track-wrap { cursor: grab; }
+      .appsbox-track-wrap:active { cursor: grabbing; }
+      .appsbox-arrow { display: flex; }
+    }
+    .appsbox-app {
+      display: flex; gap: 1rem; align-items: flex-start;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.035) 45%),
+        rgba(13,10,22,.5);
+      backdrop-filter: blur(16px) saturate(120%); -webkit-backdrop-filter: blur(16px) saturate(120%);
+      border: 1px solid rgba(255,255,255,.11); border-radius: 16px; padding: 1.1rem 1.3rem;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.05);
+      transition: border-color .3s, transform .3s, box-shadow .3s;
+      scroll-snap-align: start; flex-shrink: 0; width: 320px;
+    }
+    /* L'icona puo' essere una immagine caricata da admin */
+    .appsbox-app-icon img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center top; }
+    .appsbox-app-icon--img { padding: 0; overflow: hidden; background: rgba(208,24,171,.08); }
+    .appsbox-app:hover { border-color: rgba(208,24,171,.35); transform: translateY(-2px); box-shadow: 0 10px 30px rgba(208,24,171,.12), 0 2px 10px rgba(0,0,0,.35); }
+    .appsbox-app-icon {
+      width: 46px; height: 46px; border-radius: 12px; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+      background: rgba(208,24,171,.1); border: 1px solid rgba(208,24,171,.24); color: #d018ab; font-size: 1.2rem;
+    }
+    .appsbox-app-body { flex: 1; min-width: 0; }
+    .appsbox-app-top { display: flex; align-items: center; gap: .55rem; flex-wrap: wrap; margin-bottom: .4rem; }
+    .appsbox-app-top h3 { font-size: 1.05rem; font-weight: 700; color: #f7f4ff; margin: 0; letter-spacing: -.01em; }
+    .appsbox-tag { font-size: .6rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; padding: .18rem .55rem; border-radius: 20px; }
+    .appsbox-tag--free { color: #d018ab; background: rgba(208,24,171,.1); border: 1px solid rgba(208,24,171,.26); }
+    .appsbox-tag--pro { color: #86efac; background: rgba(74,222,128,.1); border: 1px solid rgba(74,222,128,.26); }
+    .appsbox-app-body p {
+      font-size: .8rem; line-height: 1.65; color: rgba(255,255,255,.55); margin: 0 0 .7rem;
+      display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden;
+    }
+    .appsbox-link { display: inline-flex; align-items: center; gap: .4rem; font-size: .78rem; font-weight: 600; color: #e066cc; transition: gap .2s, color .2s; }
+    .appsbox-link:hover { gap: .65rem; color: #d018ab; }
+    .appsbox-link i { font-size: .7rem; }
+    .appsbox-foot { text-align: center; margin-top: clamp(1.2rem,3vw,1.8rem); }
+    .appsbox-allbtn {
+      display: inline-flex; align-items: center; gap: .5rem;
+      padding: .6rem 1.3rem; border-radius: 40px;
+      border: 1px solid rgba(224,102,204,.32); color: #e066cc; background: rgba(208,24,171,.06);
+      font-size: .8rem; font-weight: 600; transition: .25s;
+    }
+    .appsbox-allbtn:hover { background: rgba(208,24,171,.14); border-color: #e066cc; transform: translateY(-2px); }
+    @media (max-width: 1024px) {
+      .appsbox-track-wrap { padding-left: 0; padding-right: 1.25rem; }
+      .appsbox-app { scroll-snap-align: center; }
+    }
+    @media (max-width: 560px) { .appsbox-app { width: calc(100vw - 3.5rem); max-width: 320px; } }
+    </style>
+
+    <div class="appsbox-card">
+      <div class="appsbox-head">
+        <span class="appsbox-badge"><i class="fa fa-gamepad"></i> Ludoteca</span>
+        <h2 class="appsbox-title">Le mie app &amp; prodotti</h2>
+        <p class="appsbox-sub">App PWA gratuite e soluzioni pronte all'uso.</p>
+      </div>
+
+      <div class="appsbox-scroll-area">
+      <button class="appsbox-arrow appsbox-arrow--prev" id="appsbox-prev" aria-label="Scorri sinistra">
+        <i class="fa fa-chevron-left"></i>
+      </button>
+      <div class="appsbox-track-wrap" id="appsbox-wrap" style="-webkit-overflow-scrolling:touch;">
+      <div class="appsbox-track" id="appsbox-track">
+                <article class="appsbox-app">
+                    <div class="appsbox-app-icon appsbox-app-icon--img">
+            <img src="/assets/img/ludoteca/lu_1787156644_3743108c.png"
+                 alt="Icona Genera PDF" loading="lazy">
+          </div>
+                    <div class="appsbox-app-body">
+            <div class="appsbox-app-top">
+              <h3>Genera PDF</h3>
+              <span class="appsbox-tag appsbox-tag--free">
+                Gratuita              </span>
+            </div>
+            <p>Ogni volta che unisci due PDF con un servizio online, quel documento parte dal tuo computer, viaggia su Internet, arriva sul server di qualcun altro, viene elaborato là e — dice la pagina — cancellato &quot;entro qualche ora&quot;. Per una foto delle vacanze può andare. Per una fattura, una busta paga, un contratto o la copia della carta d&#039;identità è una fiducia che non c&#039;è motivo di concedere.</p>
+            <a href="https://www.davidefulgione.com/pdf/" class="appsbox-link">
+              Apri l&rsquo;app <i class="fa fa-arrow-right"></i>
+            </a>
+          </div>
+        </article>
+                <article class="appsbox-app">
+                    <div class="appsbox-app-icon appsbox-app-icon--img">
+            <img src="/assets/img/davide.jpg"
+                 alt="Icona DF TV" loading="lazy">
+          </div>
+                    <div class="appsbox-app-body">
+            <div class="appsbox-app-top">
+              <h3>DF TV</h3>
+              <span class="appsbox-tag appsbox-tag--free">
+                Gratuita              </span>
+            </div>
+            <p>Guarda i tuoi canali TV italiani e internazionali in streaming live direttamente dal browser. Guida TV (EPG) integrata, filtri per lingua, nessuna registrazione e zero costi.</p>
+            <a href="/tv/" class="appsbox-link">
+              Apri l&rsquo;app <i class="fa fa-arrow-right"></i>
+            </a>
+          </div>
+        </article>
+                <article class="appsbox-app">
+                    <div class="appsbox-app-icon"><i class="fa fa-clapperboard"></i></div>
+                    <div class="appsbox-app-body">
+            <div class="appsbox-app-top">
+              <h3>Fulgione+</h3>
+              <span class="appsbox-tag appsbox-tag--pro">
+                € 3.500              </span>
+            </div>
+            <p>Software di streaming installabile in stile Netflix: avvia la tua attività di streaming senza scrivere codice. Si installa sul tuo server — gestisci tu utenti, licenze, demo e contenuti — e puoi rivendere il servizio. Piattaforma pronta all&#039;uso.</p>
+            <a href="fulgione-plus.php" class="appsbox-link">
+              Scopri di pi&ugrave; <i class="fa fa-arrow-right"></i>
+            </a>
+          </div>
+        </article>
+                <article class="appsbox-app">
+                    <div class="appsbox-app-icon appsbox-app-icon--img">
+            <img src="/radio/icons/icon-192.png"
+                 alt="Icona DF Radio" loading="lazy">
+          </div>
+                    <div class="appsbox-app-body">
+            <div class="appsbox-app-top">
+              <h3>DF Radio</h3>
+              <span class="appsbox-tag appsbox-tag--free">
+                Gratuita              </span>
+            </div>
+            <p>Ascolta le radio italiane in streaming direttamente dal browser: oltre 70 emittenti (Rai, RTL 102.5, Virgin, Radio Deejay, RDS e molte altre) con ricerca rapida, loghi, disco in vinile animato e controlli da lock-screen. Nessuna registrazione, nessun costo.</p>
+            <a href="/radio/" class="appsbox-link">
+              Apri l&rsquo;app <i class="fa fa-arrow-right"></i>
+            </a>
+          </div>
+        </article>
+              </div><!-- /appsbox-track -->
+      </div><!-- /appsbox-track-wrap -->
+      <button class="appsbox-arrow appsbox-arrow--next" id="appsbox-next" aria-label="Scorri destra">
+        <i class="fa fa-chevron-right"></i>
+      </button>
+      </div><!-- /appsbox-scroll-area -->
+
+      <div class="appsbox-foot">
+        <a href="ludoteca.php" class="appsbox-allbtn"><i class="fa fa-arrow-right"></i> Vai alla Ludoteca</a>
+      </div>
+    </div>
+
+    <script>
+    /* initScroller() e' definita nella sezione blog, piu' su nel DOM:
+       qui la si riusa con gli id di questa sezione. */
+    (function () {
+      if (typeof initScroller !== 'function') return;
+      initScroller('appsbox-wrap', 'appsbox-track', 'appsbox-prev', 'appsbox-next', 'appsbox-app');
+    })();
+    </script>
+  </section>
+  
+</div><!-- /sections-wrap -->
+
+
+<!-- ══════════════════════════════════════════════
+     COMMUNITY IPTV BANNER — Davide Fulgione
+════════════════════════════════════════════════ -->
+<div id="community-banner" role="dialog" aria-modal="false" aria-labelledby="cmb-title">
+  <button class="cmb-close" id="cmb-close" aria-label="Chiudi"><i class="fa fa-xmark"></i></button>
+
+  <div class="cmb-badge"><i class="fa fa-satellite-dish"></i> Community IPTV</div>
+  <p class="cmb-title" id="cmb-title">Entra nella Community IPTV</p>
+  <p class="cmb-desc">Crea e condividi le tue liste M3U, scoprine di nuove e commenta con altri utenti.</p>
+
+  <div class="cmb-actions">
+    <a href="cm_login.php" class="cmb-btn cmb-btn--ghost">Accedi</a>
+    <a href="cm_registrazione.php" class="cmb-btn cmb-btn--primary">Registrati</a>
+  </div>
+
+  <div class="cmb-divider"><span>oppure</span></div>
+
+  <form class="cmb-nl-form" id="cmb-nl-form" novalidate>
+    <input type="text" name="website" id="cmb-nl-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <input type="hidden" name="csrf_token" id="cmb-nl-csrf" value="535ac28dfc58886811e3644d959b0796843e79e3d437a4b12ea2b3db5cde5a9c">
+    <label for="cmb-nl-email" class="cmb-nl-label">Iscriviti alla newsletter</label>
+    <div class="cmb-nl-wrap">
+      <i class="fa fa-envelope cmb-nl-icon"></i>
+      <input type="email" name="email" id="cmb-nl-email" class="cmb-nl-input"
+             placeholder="La tua email..." autocomplete="email" required>
+      <button type="submit" class="cmb-nl-submit" id="cmb-nl-submit" aria-label="Iscriviti">
+        <i class="fa fa-arrow-right"></i>
+        <span class="cmb-spinner" aria-hidden="true"></span>
+      </button>
+    </div>
+    <div class="cmb-nl-msg" id="cmb-nl-msg" role="alert" aria-live="polite"></div>
+  </form>
+</div>
+
+<style>
+#community-banner {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 9970;
+  width: min(92vw, 380px);
+  background: rgba(13, 8, 28, 0.94);
+  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(22px);
+  border: 1px solid rgba(208,24,171,.28);
+  border-radius: 18px;
+  box-shadow: 0 8px 48px rgba(0,0,0,.65), 0 1px 0 rgba(208,24,171,.15) inset;
+  padding: 1.4rem 1.5rem 1.5rem;
+  transform: translateY(130%);
+  opacity: 0;
+  transition: transform .45s cubic-bezier(.22,1,.36,1), opacity .35s ease;
+  font-family: 'Inter', sans-serif;
+}
+#community-banner.cmb-show { transform: translateY(0); opacity: 1; }
+#community-banner.cmb-hide { transform: translateY(130%); opacity: 0; }
+
+/* Honeypot — completamente nascosto */
+#cmb-nl-honey {
+  position: absolute; left: -9999px; top: -9999px;
+  width: 1px; height: 1px; opacity: 0; pointer-events: none;
+}
+
+.cmb-close {
+  position: absolute; top: .7rem; right: .7rem;
+  width: 26px; height: 26px; border-radius: 50%; border: none;
+  background: rgba(255,255,255,.06); color: rgba(232,228,240,.6);
+  cursor: pointer; font-size: .7rem; transition: .2s;
+}
+.cmb-close:hover { background: rgba(255,255,255,.12); color: #f5f2ff; }
+
+.cmb-badge {
+  display: inline-flex; align-items: center; gap: .4rem;
+  padding: .3rem .7rem; border-radius: 30px;
+  background: rgba(208,24,171,.12); border: 1px solid rgba(208,24,171,.28);
+  color: #e066cc; font-size: .68rem; font-weight: 600;
+  letter-spacing: .04em; text-transform: uppercase; margin-bottom: .7rem;
+}
+.cmb-title { font-size: 1.02rem; font-weight: 700; color: #f5f2ff; margin: 0 0 .35rem; letter-spacing: -.01em; }
+.cmb-desc  { font-size: .78rem; font-weight: 300; color: rgba(232,228,240,.68); line-height: 1.55; margin: 0 0 1rem; }
+
+.cmb-actions { display: flex; gap: .6rem; margin-bottom: 1.1rem; }
+.cmb-btn {
+  flex: 1; text-align: center; padding: .58rem 1rem; border-radius: 40px;
+  font-size: .78rem; font-weight: 600; text-decoration: none; white-space: nowrap;
+  transition: .2s; border: 1px solid transparent;
+}
+.cmb-btn--ghost {
+  background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.14); color: rgba(232,228,240,.85);
+}
+.cmb-btn--ghost:hover { background: rgba(255,255,255,.12); color: #fff; }
+.cmb-btn--primary {
+  background: linear-gradient(135deg, #d018ab, #8c0f70); color: #fff;
+  box-shadow: 0 3px 14px rgba(208,24,171,.35);
+}
+.cmb-btn--primary:hover { filter: brightness(1.1); transform: translateY(-1px); }
+
+.cmb-divider {
+  display: flex; align-items: center; text-align: center;
+  color: rgba(232,228,240,.4); font-size: .68rem; letter-spacing: .04em;
+  text-transform: uppercase; margin-bottom: 1rem;
+}
+.cmb-divider::before, .cmb-divider::after { content: ''; flex: 1; height: 1px; background: rgba(255,255,255,.1); }
+.cmb-divider span { padding: 0 .6rem; }
+
+.cmb-nl-label { display: block; font-size: .72rem; color: rgba(232,228,240,.6); margin-bottom: .45rem; }
+.cmb-nl-wrap { position: relative; display: flex; align-items: center; }
+.cmb-nl-icon {
+  position: absolute; left: .85rem; color: rgba(232,228,240,.4); font-size: .78rem; pointer-events: none;
+}
+.cmb-nl-input {
+  width: 100%; padding: .62rem .9rem .62rem 2.15rem; padding-right: 2.6rem;
+  background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12);
+  border-radius: 40px; color: #f5f2ff; font-family: inherit; font-size: .82rem;
+  outline: none; transition: border-color .2s, background .2s;
+}
+.cmb-nl-input:focus { border-color: rgba(208,24,171,.5); background: rgba(208,24,171,.06); }
+.cmb-nl-submit {
+  position: absolute; right: .3rem; width: 30px; height: 30px; border-radius: 50%; border: none;
+  background: linear-gradient(135deg, #d018ab, #8c0f70); color: #fff; cursor: pointer;
+  display: flex; align-items: center; justify-content: center; font-size: .74rem; transition: .2s;
+}
+.cmb-nl-submit:hover { filter: brightness(1.1); }
+.cmb-nl-submit[disabled] { opacity: .6; pointer-events: none; }
+.cmb-spinner {
+  display: none; width: 13px; height: 13px; border-radius: 50%;
+  border: 2px solid rgba(255,255,255,.35); border-top-color: #fff;
+  animation: cmb-spin .7s linear infinite;
+}
+.cmb-nl-submit.loading .fa { display: none; }
+.cmb-nl-submit.loading .cmb-spinner { display: block; }
+@keyframes cmb-spin { to { transform: rotate(360deg); } }
+
+.cmb-nl-msg { font-size: .72rem; margin-top: .5rem; line-height: 1.5; display: none; }
+.cmb-nl-msg.cmb-nl-msg--visible { display: block; }
+.cmb-nl-msg--success, .cmb-nl-msg--already { color: #34c98a; }
+.cmb-nl-msg--error   { color: #f87070; }
+
+@media (max-width: 480px) {
+  #community-banner {
+    bottom: 1rem; right: .8rem; left: .8rem; width: auto;
+    padding: 1.2rem 1.2rem 1.3rem; border-radius: 16px;
+  }
+  .cmb-actions { flex-direction: column; }
+}
+</style>
+
+<script>
+(function(){
+  var banner = document.getElementById('community-banner');
+  if (!banner) return;
+
+  setTimeout(function(){ banner.classList.add('cmb-show'); }, 1300);
+
+  function setCookie(name, value, days){
+    var d = new Date();
+    d.setTime(d.getTime() + days * 86400000);
+    document.cookie = name + '=' + value + ';expires=' + d.toUTCString() + ';path=/;SameSite=Lax';
+  }
+
+  function hideBanner(){
+    banner.classList.remove('cmb-show');
+    banner.classList.add('cmb-hide');
+    setTimeout(function(){ banner.remove(); }, 500);
+  }
+
+  document.getElementById('cmb-close').addEventListener('click', function(){
+    setCookie('df_community_banner_dismissed', '1', 365);
+    hideBanner();
+  });
+
+  // -- Mini form newsletter -------------------------------
+  var form  = document.getElementById('cmb-nl-form');
+  var input = document.getElementById('cmb-nl-email');
+  var msg   = document.getElementById('cmb-nl-msg');
+  var btn   = document.getElementById('cmb-nl-submit');
+  var lastSub = 0;
+
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    var now = Date.now();
+    if (now - lastSub < 8000) return;
+    lastSub = now;
+    var email = input.value.trim();
+    var honey = document.getElementById('cmb-nl-honey').value;
+    if (!email) { showMsg('Inserisci la tua email.', 'error'); return; }
+    btn.disabled = true; btn.classList.add('loading');
+    msg.className = 'cmb-nl-msg'; msg.textContent = '';
+    var fd = new FormData();
+    fd.append('email', email);
+    fd.append('website', honey);
+    fd.append('csrf_token', document.getElementById('cmb-nl-csrf').value);
+    fetch('newsletter_subscribe.php', { method: 'POST', body: fd })
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        showMsg(data.message, data.status);
+        if (data.status === 'success' || data.status === 'already') input.value = '';
+      })
+      .catch(function(){ showMsg('Errore di rete. Riprova tra poco.', 'error'); })
+      .finally(function(){ btn.disabled = false; btn.classList.remove('loading'); });
+  });
+
+  function showMsg(text, type){
+    msg.textContent = text;
+    msg.className = 'cmb-nl-msg cmb-nl-msg--' + type + ' cmb-nl-msg--visible';
+  }
+})();
+</script><footer id="footer">
+  <div class="foot-grid">
+
+    <div class="foot-brand">
+      <a href="/index.php" class="logo">
+        <span class="logo-photo-wrap"><img src="/assets/img/davide.jpg" alt="Davide Fulgione" width="38" height="38"></span>
+        <div class="logo-copy">
+          <span class="logo-name">Davide Fulgione</span>
+          <span class="logo-role">Web Developer &amp; Divulgatore</span>
+        </div>
+      </a>
+      <p class="foot-desc">
+        Soluzioni web personalizzate per aziende e privati.
+        Dal sito vetrina all'applicazione enterprise, ogni progetto
+        nasce con cura e attenzione al dettaglio.
+      </p>
+      <div class="foot-social">
+        <a href="https://it.linkedin.com/in/davide-fulgione-7002b930b" class="soc" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=61574595784227&locale=it_IT" class="soc" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
+      </div>
+    </div>
+
+    <div class="foot-col">
+      <h4>Servizi</h4>
+      <ul class="foot-links">
+        <li><a href="/servizi.php#design">Design &amp; UX</a></li>
+        <li><a href="/servizi.php#sviluppo">Sviluppo Web</a></li>
+        <li><a href="/servizi.php#ecommerce">E-commerce</a></li>
+        <li><a href="/servizi.php#api">API REST</a></li>
+        <li><a href="/servizi.php#pwa">App PWA</a></li>
+        <li><a href="/servizi.php#crm">ERP &amp; CRM</a></li>
+        <li><a href="/servizi.php#seo">SEO</a></li>
+      </ul>
+    </div>
+
+    <div class="foot-col">
+      <h4>Esplora</h4>
+      <ul class="foot-links">
+        <li><a href="/servizi.php">Servizi</a></li>
+        <li><a href="/script-template.php">Script &amp; Template</a></li>
+        <li><a href="/portfolio.php">Portfolio</a></li>
+        <li><a href="/blog.php">Blog</a></li>
+        <li><a href="/news.php">News</a></li>
+        <li><a href="/ludoteca.php">Ludoteca</a></li>
+        <li><a href="/community.php">Community IPTV</a></li>
+        <li><a href="/contatti.php">Contatti</a></li>
+      </ul>
+    </div>
+
+    <div class="foot-col">
+      <h4>Contatti</h4>
+      <ul class="foot-contacts">
+        <li><i class="fa fa-map-marker-alt"></i> Eboli (SA)</li>
+        <li><i class="fa fa-envelope"></i> <a href="mailto:info@davidefulgione.com">info@davidefulgione.com</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="foot-bar">
+    <p class="foot-copy">
+      &copy; 2026 <span>Davide Fulgione</span>.
+      Sviluppo Siti Web <span>Eboli</span> | Web Agency <span>Salerno</span>.
+      Tutti i diritti riservati.
+    </p>
+    <nav class="foot-legal">
+      <a href="/privacy.php">Privacy</a>
+      <a href="/cookie.php">Cookie</a>
+      <a href="/termini.php">Termini</a>
+      <a href="/admin/login.php" style="opacity:.45;font-size:.68rem;">Area Riservata</a>
+    </nav>
+  </div>
+</footer>
+
+
+<button id="gotop" aria-label="Torna su"><i class="fa fa-chevron-up"></i></button>
+
+<script>
+/* Navbar + scroll top */
+var navbar = document.getElementById('navbar');
+var gotop  = document.getElementById('gotop');
+window.addEventListener('scroll', function(){
+  var y = window.scrollY;
+  navbar.classList.toggle('solid', y > 50);
+  gotop.classList.toggle('on', y > 380);
+}, {passive:true});
+gotop.addEventListener('click', function(){ window.scrollTo({top:0, behavior:'smooth'}); });
+
+/* Hamburger */
+var hbg = document.getElementById('hbg');
+var mob = document.getElementById('mobnav');
+hbg.addEventListener('click', function(){
+  var o = mob.classList.toggle('open');
+  hbg.classList.toggle('open', o);
+  hbg.setAttribute('aria-expanded', String(o));
+  document.body.style.overflow = o ? 'hidden' : '';
+});
+document.addEventListener('click', function(e){
+  if (!hbg.contains(e.target) && !mob.contains(e.target)){
+    mob.classList.remove('open');
+    hbg.classList.remove('open');
+    hbg.setAttribute('aria-expanded','false');
+    document.body.style.overflow = '';
+  }
+});
+</script>
+
+</body>
+</html>
+
+
+
+<!-- ══════════════════════════════════════════════
+     COOKIE BANNER — Davide Fulgione
+════════════════════════════════════════════════ -->
+<div id="cookie-banner" role="dialog" aria-modal="true" aria-labelledby="cb-title" aria-describedby="cb-desc">
+  <div class="cb-inner">
+
+    <div class="cb-top">
+      <div class="cb-icon" aria-hidden="true"><i class="fa fa-shield-halved"></i></div>
+      <div class="cb-text">
+        <p class="cb-title" id="cb-title">Questo sito utilizza cookie</p>
+        <p class="cb-desc" id="cb-desc">
+          Usiamo cookie tecnici (necessari al funzionamento) e cookie analitici tramite
+          <strong>Google Analytics</strong> per capire come viene utilizzato il sito.
+          Nessun cookie di profilazione o marketing.
+          <a href="cookie.php" class="cb-link">Informativa completa</a>
+        </p>
+      </div>
+    </div>
+
+    <div class="cb-actions">
+      <button class="cb-btn cb-btn--reject" id="cb-reject">Solo necessari</button>
+      <button class="cb-btn cb-btn--accept" id="cb-accept">Accetta tutti</button>
+    </div>
+
+  </div>
+</div>
+
+<style>
+#cookie-banner {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(120%);
+  z-index: 9999;
+  width: min(92vw, 620px);
+  background: rgba(13, 8, 28, 0.92);
+  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(22px);
+  border: 1px solid rgba(208,24,171,.28);
+  border-radius: 18px;
+  box-shadow: 0 8px 48px rgba(0,0,0,.65), 0 1px 0 rgba(208,24,171,.15) inset;
+  padding: 1.4rem 1.6rem;
+  transition: transform .45s cubic-bezier(.22,1,.36,1), opacity .35s ease;
+  opacity: 0;
+  font-family: 'Inter', sans-serif;
+}
+#cookie-banner.cb-show {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+}
+#cookie-banner.cb-hide {
+  transform: translateX(-50%) translateY(130%);
+  opacity: 0;
+}
+.cb-inner { display: flex; flex-direction: column; gap: 1.1rem; }
+.cb-top   { display: flex; align-items: flex-start; gap: 1rem; }
+.cb-icon  {
+  flex-shrink: 0;
+  width: 38px; height: 38px; border-radius: 10px;
+  background: rgba(208,24,171,.12);
+  border: 1px solid rgba(208,24,171,.25);
+  display: flex; align-items: center; justify-content: center;
+  color: #d018ab; font-size: .95rem;
+}
+.cb-title {
+  font-size: .82rem; font-weight: 600;
+  color: #f5f2ff; margin: 0 0 .3rem;
+  letter-spacing: -.01em;
+}
+.cb-desc {
+  font-size: .74rem; font-weight: 300;
+  color: rgba(232,228,240,.65);
+  line-height: 1.65; margin: 0;
+}
+.cb-desc strong { font-weight: 500; color: rgba(232,228,240,.85); }
+.cb-link {
+  color: #d018ab; text-decoration: underline;
+  text-underline-offset: 2px; white-space: nowrap;
+}
+.cb-link:hover { color: #e066cc; }
+.cb-actions {
+  display: flex; gap: .65rem; justify-content: flex-end;
+}
+.cb-btn {
+  padding: .52rem 1.25rem; border-radius: 40px;
+  font-family: 'Inter', sans-serif;
+  font-size: .76rem; font-weight: 500; letter-spacing: .02em;
+  cursor: pointer; border: none; transition: .2s;
+  white-space: nowrap;
+}
+.cb-btn--reject {
+  background: rgba(255,255,255,.07);
+  border: 1px solid rgba(255,255,255,.14);
+  color: rgba(232,228,240,.7);
+}
+.cb-btn--reject:hover {
+  background: rgba(255,255,255,.12);
+  color: #f5f2ff;
+}
+.cb-btn--accept {
+  background: linear-gradient(135deg, #d018ab, #8c0f70);
+  color: #fff;
+  box-shadow: 0 3px 14px rgba(208,24,171,.35);
+}
+.cb-btn--accept:hover { filter: brightness(1.1); transform: translateY(-1px); }
+
+@media (max-width: 480px) {
+  #cookie-banner { bottom: 1rem; padding: 1.1rem 1.1rem; border-radius: 14px; }
+  .cb-actions { flex-direction: column; }
+  .cb-btn { width: 100%; text-align: center; padding: .62rem 1rem; }
+  .cb-btn--accept { order: -1; }
+}
+</style>
+
+<script>
+(function(){
+  var banner  = document.getElementById('cookie-banner');
+  var btnAcc  = document.getElementById('cb-accept');
+  var btnRej  = document.getElementById('cb-reject');
+
+  // Mostra con leggero delay
+  setTimeout(function(){ banner.classList.add('cb-show'); }, 800);
+
+  function setCookie(name, value, days){
+    var d = new Date();
+    d.setTime(d.getTime() + days * 86400000);
+    document.cookie = name + '=' + value + ';expires=' + d.toUTCString() + ';path=/;SameSite=Lax';
+  }
+
+  function hideBanner(){
+    banner.classList.remove('cb-show');
+    banner.classList.add('cb-hide');
+    setTimeout(function(){ banner.remove(); }, 500);
+  }
+
+  // Accetta tutti — attiva GA
+  btnAcc.addEventListener('click', function(){
+    setCookie('df_cookie_consent', 'all', 365);
+    hideBanner();
+    // Sblocca Google Analytics
+    if (typeof gtag === 'function') {
+      gtag('consent', 'update', { analytics_storage: 'granted' });
+    }
+  });
+
+  // Solo necessari — GA rimane bloccato
+  btnRej.addEventListener('click', function(){
+    setCookie('df_cookie_consent', 'necessary', 365);
+    hideBanner();
+    if (typeof gtag === 'function') {
+      gtag('consent', 'update', { analytics_storage: 'denied' });
+    }
+  });
+})();
+</script>
+<!-- ══════════════════════════════════════════════
+     PWA — Service Worker + Banner Android
+════════════════════════════════════════════════ -->
+
+<!-- Banner installazione Android -->
+<div id="pwa-banner" role="dialog" aria-modal="true" aria-label="Installa l'app" hidden>
+  <div class="pwa-banner-inner">
+    <img class="pwa-banner-icon" src="/assets/icons/icon-72x72.png" alt="DF Developer" width="48" height="48">
+    <div class="pwa-banner-text">
+      <strong>DF Developer</strong>
+      <span>Installa il sito come app sul tuo telefono</span>
+    </div>
+    <div class="pwa-banner-actions">
+      <button class="pwa-btn pwa-btn--dismiss" id="pwa-dismiss" aria-label="Chiudi">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+      <button class="pwa-btn pwa-btn--install" id="pwa-install">
+        Installa <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<style>
+#pwa-banner {
+  position: fixed;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(140%);
+  z-index: 9990;
+  width: min(94vw, 480px);
+  background: rgba(13, 8, 28, 0.96);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(208,24,171,.3);
+  border-radius: 16px;
+  box-shadow: 0 8px 40px rgba(0,0,0,.7), 0 1px 0 rgba(208,24,171,.15) inset;
+  padding: .9rem 1.1rem;
+  transition: transform .45s cubic-bezier(.22,1,.36,1), opacity .35s ease;
+  opacity: 0;
+  font-family: 'Inter', sans-serif;
+}
+#pwa-banner:not([hidden]) { display: block; }
+#pwa-banner.pwa-show {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+}
+#pwa-banner.pwa-hide {
+  transform: translateX(-50%) translateY(140%);
+  opacity: 0;
+}
+.pwa-banner-inner {
+  display: flex; align-items: center; gap: .85rem;
+}
+.pwa-banner-icon {
+  width: 48px; height: 48px; border-radius: 12px;
+  flex-shrink: 0;
+  border: 1px solid rgba(208,24,171,.2);
+  object-fit: cover;
+}
+.pwa-banner-text {
+  flex: 1; min-width: 0;
+  display: flex; flex-direction: column; gap: .12rem;
+}
+.pwa-banner-text strong {
+  font-size: .82rem; font-weight: 600; color: #f7f4ff;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.pwa-banner-text span {
+  font-size: .71rem; font-weight: 300;
+  color: rgba(232,228,240,.5);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.pwa-banner-actions {
+  display: flex; align-items: center; gap: .5rem; flex-shrink: 0;
+}
+.pwa-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  gap: .35rem; border: none; cursor: pointer;
+  font-family: 'Inter', sans-serif; transition: .2s;
+  border-radius: 40px;
+}
+.pwa-btn--dismiss {
+  width: 30px; height: 30px;
+  background: rgba(255,255,255,.07);
+  border: 1px solid rgba(255,255,255,.12) !important;
+  color: rgba(232,228,240,.5);
+  border-radius: 50% !important;
+}
+.pwa-btn--dismiss:hover { background: rgba(255,255,255,.14); color: #f7f4ff; }
+.pwa-btn--install {
+  padding: .45rem 1rem;
+  background: linear-gradient(135deg, #d018ab, #8c0f70);
+  color: #fff; font-size: .74rem; font-weight: 500;
+  box-shadow: 0 3px 12px rgba(208,24,171,.4);
+}
+.pwa-btn--install:hover { filter: brightness(1.1); transform: translateY(-1px); }
+
+@media (max-width: 400px) {
+  #pwa-banner { padding: .8rem .9rem; }
+  .pwa-banner-text span { display: none; }
+}
+</style>
+
+<script>
+(function(){
+  'use strict';
+
+  // ── Registra Service Worker ──────────────────────
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function(){
+      navigator.serviceWorker.register('/sw.js', { scope: '/' })
+        .catch(function(err){ console.warn('SW registration failed:', err); });
+    });
+  }
+
+  // ── Banner installazione Android ─────────────────
+  var banner      = document.getElementById('pwa-banner');
+  var btnInstall  = document.getElementById('pwa-install');
+  var btnDismiss  = document.getElementById('pwa-dismiss');
+  var deferredEvt = null;
+
+  // Non mostrare se già dismissato nelle ultime 2 settimane
+  var dismissed = localStorage.getItem('pwa_banner_dismissed');
+  if (dismissed && Date.now() - parseInt(dismissed) < 14 * 86400000) return;
+
+  // Cattura evento beforeinstallprompt (solo Android/Chrome)
+  window.addEventListener('beforeinstallprompt', function(e){
+    e.preventDefault();
+    deferredEvt = e;
+    banner.removeAttribute('hidden');
+    setTimeout(function(){
+      banner.classList.add('pwa-show');
+    }, 3000); // compare dopo 3 secondi
+  });
+
+  // Nascondi se già installata
+  window.addEventListener('appinstalled', function(){
+    hideBanner();
+    localStorage.setItem('pwa_banner_dismissed', Date.now().toString());
+  });
+
+  function hideBanner(){
+    banner.classList.remove('pwa-show');
+    banner.classList.add('pwa-hide');
+    setTimeout(function(){ banner.setAttribute('hidden', ''); }, 500);
+  }
+
+  btnInstall.addEventListener('click', function(){
+    if (!deferredEvt) return;
+    deferredEvt.prompt();
+    deferredEvt.userChoice.then(function(choice){
+      deferredEvt = null;
+      hideBanner();
+      if (choice.outcome === 'accepted') {
+        localStorage.setItem('pwa_banner_dismissed', Date.now().toString());
+      }
+    });
+  });
+
+  btnDismiss.addEventListener('click', function(){
+    hideBanner();
+    localStorage.setItem('pwa_banner_dismissed', Date.now().toString());
+  });
+
+})();
+</script>
