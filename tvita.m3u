@@ -405,7 +405,7 @@
         <i class="fa fa-envelope-open-text" aria-hidden="true"></i>
         <span class="bs-hub-lb">Iscriviti alla Newsletter</span>
         <span class="bs-hub-lb-s">Newsletter</span>
-                <span class="bs-hub-n" title="5.662 iscritti confermati">5.662</span>
+                <span class="bs-hub-n" title="5.670 iscritti confermati">5.670</span>
               </a>
 
       <a class="bs-hub-t" href="/radio/" title="Radio italiane in streaming">
@@ -465,6 +465,21 @@
       <div class="blog-track-wrap" id="blog-wrap" style="-webkit-overflow-scrolling:touch;">
         <div class="blog-track" id="blog-track">
 
+          <a href="blog.php?slug=anatomia-di-un-player-iptv-codec-memoria-e-frequenze-che-fanno-la-differenza" class="blog-card">
+            <div class="blog-card-img">
+              <img src="assets/img/blog/blog_1795769100_31215689.webp" alt="Anatomia di un player IPTV: codec, memoria e frequenze che fanno la differenza" loading="lazy">
+                            <span class="blog-cat">IPTV</span>
+                          </div>
+            <div class="blog-card-body">
+              <h3 class="blog-card-title">Anatomia di un player IPTV: codec, memoria e frequenze che fanno la differenza</h3>
+              <p class="blog-card-sum">Schermo nero, audio muto e micro-scatti: la verità tecnica sui player IPTV
+Perché lo stesso flusso …</p>
+              <div class="blog-card-meta">
+                <span><i class="fa fa-calendar-days"></i> 27 Nov 2026</span>
+                <span><i class="fa fa-eye"></i> 82</span>
+              </div>
+            </div>
+          </a>
           <a href="blog.php?slug=la-mia-lista-un-link-una-guida-tv-addio-a-tante-liste-e-tanti-epg" class="blog-card">
             <div class="blog-card-img">
               <img src="assets/img/blog/blog_1792588133_b502f6ad.jpg" alt="La mia lista: un link, una guida TV. Addio a tante liste e tanti EPG" loading="lazy">
@@ -475,7 +490,7 @@
               <p class="blog-card-sum">Da oggi nella Community IPTV basta un solo link: dentro ci sono i canali che hai scelto tu e la guid…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 21 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 1,976</span>
+                <span><i class="fa fa-eye"></i> 2,011</span>
               </div>
             </div>
           </a>
@@ -489,7 +504,7 @@
               <p class="blog-card-sum">La mia lista iptv m3u è la tua lista M3U personale. La costruisci tu, scegliendo canale per canale t…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 21 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 988</span>
+                <span><i class="fa fa-eye"></i> 1,014</span>
               </div>
             </div>
           </a>
@@ -503,7 +518,7 @@
               <p class="blog-card-sum">Se ti sei chiesto perché lo stesso identico canale funzioni alla perfezione sullo smartphone e si ri…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 14 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 323</span>
+                <span><i class="fa fa-eye"></i> 328</span>
               </div>
             </div>
           </a>
@@ -517,7 +532,7 @@
               <p class="blog-card-sum">In un servizio IPTV professionale non basta avere dei flussi video (i canali TV). Serve un sistema c…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 08 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 412</span>
+                <span><i class="fa fa-eye"></i> 414</span>
               </div>
             </div>
           </a>
@@ -531,21 +546,7 @@
               <p class="blog-card-sum">Nel panorama dello streaming digitale, la distribuzione dei contenuti video ha visto un&#039;evoluzione r…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 01 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 212</span>
-              </div>
-            </div>
-          </a>
-          <a href="blog.php?slug=perche-i-canali-rai-non-funzionano-o-sono-muti-sulla-iptv" class="blog-card">
-            <div class="blog-card-img">
-              <img src="assets/img/blog/blog_1787939401_715e14c1.jpeg" alt="Perché i canali Rai non funzionano o sono muti sulla IPTV?" loading="lazy">
-                            <span class="blog-cat">IPTV</span>
-                          </div>
-            <div class="blog-card-body">
-              <h3 class="blog-card-title">Perché i canali Rai non funzionano o sono muti sulla IPTV?</h3>
-              <p class="blog-card-sum">Il problema non dipende dalla tua linea internet e, nella maggior parte dei casi, nemmeno dalla &quot;bon…</p>
-              <div class="blog-card-meta">
-                <span><i class="fa fa-calendar-days"></i> 28 Aug 2026</span>
-                <span><i class="fa fa-eye"></i> 849</span>
+                <span><i class="fa fa-eye"></i> 216</span>
               </div>
             </div>
           </a>
@@ -784,7 +785,7 @@ initScroller('blog-wrap', 'blog-track', 'blog-prev', 'blog-next', 'blog-card');
         </p>
         <form class="nl-form" id="nl-form" novalidate>
           <input type="text" name="website" id="nl-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
-          <input type="hidden" name="csrf_token" id="nl-csrf" value="5daa816e0309e0d0f2bf20e1ff3262fca2ff923e13559967ed70bb59bb9872ae">
+          <input type="hidden" name="csrf_token" id="nl-csrf" value="b8475364f0cdf4bf50deb3b287f45d5e6baafe5fa15dfcce4480ce3eca62b312">
           <div class="nl-field-wrap">
             <i class="fa fa-envelope nl-field-icon"></i>
             <input type="email" name="email" id="nl-email" class="nl-input"
@@ -804,7 +805,7 @@ initScroller('blog-wrap', 'blog-track', 'blog-prev', 'blog-next', 'blog-card');
 
                 <p class="nl-count">
           <span class="nl-count-dot" aria-hidden="true"></span>
-          <span><b>5.662</b> persone ricevono gi&agrave; la newsletter</span>
+          <span><b>5.670</b> persone ricevono gi&agrave; la newsletter</span>
         </p>
               </div>
 
@@ -1212,7 +1213,7 @@ initScroller('blog-wrap', 'blog-track', 'blog-prev', 'blog-next', 'blog-card');
 
   <form class="cmb-nl-form" id="cmb-nl-form" novalidate>
     <input type="text" name="website" id="cmb-nl-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
-    <input type="hidden" name="csrf_token" id="cmb-nl-csrf" value="5daa816e0309e0d0f2bf20e1ff3262fca2ff923e13559967ed70bb59bb9872ae">
+    <input type="hidden" name="csrf_token" id="cmb-nl-csrf" value="b8475364f0cdf4bf50deb3b287f45d5e6baafe5fa15dfcce4480ce3eca62b312">
     <label for="cmb-nl-email" class="cmb-nl-label">Iscriviti alla newsletter</label>
     <div class="cmb-nl-wrap">
       <i class="fa fa-envelope cmb-nl-icon"></i>
