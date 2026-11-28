@@ -405,7 +405,7 @@
         <i class="fa fa-envelope-open-text" aria-hidden="true"></i>
         <span class="bs-hub-lb">Iscriviti alla Newsletter</span>
         <span class="bs-hub-lb-s">Newsletter</span>
-                <span class="bs-hub-n" title="5.670 iscritti confermati">5.670</span>
+                <span class="bs-hub-n" title="5.668 iscritti confermati">5.668</span>
               </a>
 
       <a class="bs-hub-t" href="/radio/" title="Radio italiane in streaming">
@@ -476,7 +476,7 @@
 Perché lo stesso flusso …</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 27 Nov 2026</span>
-                <span><i class="fa fa-eye"></i> 82</span>
+                <span><i class="fa fa-eye"></i> 160</span>
               </div>
             </div>
           </a>
@@ -490,7 +490,7 @@ Perché lo stesso flusso …</p>
               <p class="blog-card-sum">Da oggi nella Community IPTV basta un solo link: dentro ci sono i canali che hai scelto tu e la guid…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 21 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 2,011</span>
+                <span><i class="fa fa-eye"></i> 2,037</span>
               </div>
             </div>
           </a>
@@ -504,7 +504,7 @@ Perché lo stesso flusso …</p>
               <p class="blog-card-sum">La mia lista iptv m3u è la tua lista M3U personale. La costruisci tu, scegliendo canale per canale t…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 21 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 1,014</span>
+                <span><i class="fa fa-eye"></i> 1,032</span>
               </div>
             </div>
           </a>
@@ -518,7 +518,7 @@ Perché lo stesso flusso …</p>
               <p class="blog-card-sum">Se ti sei chiesto perché lo stesso identico canale funzioni alla perfezione sullo smartphone e si ri…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 14 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 328</span>
+                <span><i class="fa fa-eye"></i> 330</span>
               </div>
             </div>
           </a>
@@ -532,7 +532,7 @@ Perché lo stesso flusso …</p>
               <p class="blog-card-sum">In un servizio IPTV professionale non basta avere dei flussi video (i canali TV). Serve un sistema c…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 08 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 414</span>
+                <span><i class="fa fa-eye"></i> 415</span>
               </div>
             </div>
           </a>
@@ -546,7 +546,7 @@ Perché lo stesso flusso …</p>
               <p class="blog-card-sum">Nel panorama dello streaming digitale, la distribuzione dei contenuti video ha visto un&#039;evoluzione r…</p>
               <div class="blog-card-meta">
                 <span><i class="fa fa-calendar-days"></i> 01 Oct 2026</span>
-                <span><i class="fa fa-eye"></i> 216</span>
+                <span><i class="fa fa-eye"></i> 217</span>
               </div>
             </div>
           </a>
@@ -785,7 +785,7 @@ initScroller('blog-wrap', 'blog-track', 'blog-prev', 'blog-next', 'blog-card');
         </p>
         <form class="nl-form" id="nl-form" novalidate>
           <input type="text" name="website" id="nl-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
-          <input type="hidden" name="csrf_token" id="nl-csrf" value="b8475364f0cdf4bf50deb3b287f45d5e6baafe5fa15dfcce4480ce3eca62b312">
+          <input type="hidden" name="csrf_token" id="nl-csrf" value="56119f4b4a98cdbd22b11ec44a19849ddce29b4d90b38479d972c7b3da2a7d3a">
           <div class="nl-field-wrap">
             <i class="fa fa-envelope nl-field-icon"></i>
             <input type="email" name="email" id="nl-email" class="nl-input"
@@ -805,7 +805,7 @@ initScroller('blog-wrap', 'blog-track', 'blog-prev', 'blog-next', 'blog-card');
 
                 <p class="nl-count">
           <span class="nl-count-dot" aria-hidden="true"></span>
-          <span><b>5.670</b> persone ricevono gi&agrave; la newsletter</span>
+          <span><b>5.668</b> persone ricevono gi&agrave; la newsletter</span>
         </p>
               </div>
 
@@ -1213,7 +1213,7 @@ initScroller('blog-wrap', 'blog-track', 'blog-prev', 'blog-next', 'blog-card');
 
   <form class="cmb-nl-form" id="cmb-nl-form" novalidate>
     <input type="text" name="website" id="cmb-nl-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
-    <input type="hidden" name="csrf_token" id="cmb-nl-csrf" value="b8475364f0cdf4bf50deb3b287f45d5e6baafe5fa15dfcce4480ce3eca62b312">
+    <input type="hidden" name="csrf_token" id="cmb-nl-csrf" value="56119f4b4a98cdbd22b11ec44a19849ddce29b4d90b38479d972c7b3da2a7d3a">
     <label for="cmb-nl-email" class="cmb-nl-label">Iscriviti alla newsletter</label>
     <div class="cmb-nl-wrap">
       <i class="fa fa-envelope cmb-nl-icon"></i>
